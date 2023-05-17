@@ -1,0 +1,23 @@
+{
+  "name": "spencerkelly.firstbloc",
+  "version": "1.0.0",
+  "description": "Portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerdkelly/spencerkelly.firstbloc.git"
+  },
+  "author": "Spencer Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerdkelly/spencerkelly.firstbloc/issues"
+  },
+  "homepage": "https://github.com/spencerdkelly/spencerkelly.firstbloc#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
