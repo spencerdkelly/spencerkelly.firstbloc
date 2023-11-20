@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "scss": "sass assets/scss/main.scss dist/css/main.css",
     "concat:css": "concat -o dist/css/main.css dist/css/main.css",
-    "concat:js": "mkdir -p dist/js && concat -o dist/js/main.js assets/js/email.js assets/js/slider.js assets/js/scrolling.js ",
+    "concat:js": "mkdir -p dist/js && concat -o dist/js/main.js assets/js/main.js assets/js/email.js assets/js/slider.js assets/js/scrolling.js ",
     "concat": "npm run concat:css && npm run concat:js",
     "cssmin": "cleancss -o dist/css/main.min.css dist/css/main.css",
     "uglify": "uglifyjs -o dist/js/main.min.js dist/js/main.js",

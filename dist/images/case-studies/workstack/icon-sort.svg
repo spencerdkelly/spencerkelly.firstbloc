@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_11" data-name="Layer 11" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      @keyframes sort-spin {
+        0% { transform: rotate(0deg) }
+        10% { transform: rotate(0deg) }
+        15% { transform: rotate(90deg) }
+        25% { transform: rotate(90deg) }
+        30% { transform: rotate(180deg) }
+        40% { transform: rotate(180deg) }
+        45% { transform: rotate(270deg) }
+        55% { transform: rotate(270deg) }
+        60% { transform: rotate(360deg) }
+        100% { transform: rotate(360deg) }
+      }
+
+      #sort-group {
+        animation-duration: 4s;
+        animation-name: sort-spin;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+    </style>
+  </defs>
+  <g id="sort-group">
+    <rect x="13.61" y="13.29" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="33.93" y="13.29" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="54.24" y="13.29" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="13.61" y="33.1" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="33.93" y="33.1" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="54.24" y="33.1" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="13.61" y="53.92" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="33.93" y="53.92" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+    <rect x="54.24" y="53.92" width="10.16" height="10.16" rx="1.13" ry="1.13" style="fill: #666b7b;"/>
+  </g>
+</svg>

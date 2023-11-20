@@ -42,64 +42,13 @@ if (slides.length > 0) {
 }
 
 
+window.addEventListener("focus", function(event) { 
 
-// --------------------------------------------------
-// Full Slider
-// --------------------------------------------------
+    for(let i = 0; i<slides.length; i++) {
+        inactiveSlides[i].classList.remove('animate','inactive');
+    }
 
-// const slides = document.querySelectorAll('.slide');
-// const body = document.body;
-// let currentSlide = null;
-
-// if (slides.length > 0) {
-
-//   currentSlide = 0;
-//   const slideTotal = document.querySelectorAll('.slide-total')[0];
-//   const slideCurrent = document.querySelectorAll('.slide-current')[0];
-//   slideTotal.innerHTML = slides.length;
-
-//   //var slideWrap = document.getElementsByClassName('slide-wrapper-inner')[0];
-
-//   // slideWrap.addEventListener("transitionend", () => {
-//   //   slideWrap.classList.remove('animate');
-//   //   var firstItem = slideWrap.removeChild(slideWrap.firstElementChild);
-//   //   slideWrap.appendChild(firstItem);
-//   // });
-
-//   function nextSlide() {
-
-//     // const inactiveSlides = document.querySelectorAll('.inactive');
-
-//     // for(let i = 0; i<inactiveSlides.length; i++) {
-//     //     inactiveSlides[i].classList.remove('animate','inactive');
-//     // }
-
-//     // slides[currentSlide].classList.remove('active');
-//     // slides[currentSlide].classList.add('inactive','animate');
-
-//     currentSlide = (currentSlide + 1);
-//     if(currentSlide >= slides.length) {
-//       currentSlide = 0;
-//     }
-
-//     //slides[currentSlide].classList.add('active', 'animate');
-
-//     // Set color of overlay text
-//     if(currentSlide == 1 || currentSlide == 2) {
-//       body.classList.add('light-header');
-//     } else {
-//       body.classList.remove('light-header');
-//     }
-
-//     slideCurrent.innerHTML = currentSlide + 1;
-
-    
-
-//     //slideWrap.classList.add('animate');
-//   }
-
-//   setInterval(nextSlide, 3000); // Auto-rotate items every 3 seconds
-// }
+}, false);
 
 
 

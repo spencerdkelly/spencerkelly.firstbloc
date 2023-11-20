@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      @keyframes stretch-up {
+        0% { transform: translate(0px, 0px) }
+        10% { transform: translate(0px, 0px) }
+        35% { transform: translate(0px, 10px) }
+        55% { transform: translate(0px, 10px) }
+        60% { transform: translate(0px, 0px) }
+        61% { transform: translate(0px, -8px) }
+        62% { transform: translate(0px, 0px) }
+        100% { transform: translate(0px, 0px) }
+      }
+
+      @keyframes stretch-down {
+        0% { transform: translate(0px, 0px) }
+        10% { transform: translate(0px, 0px) }
+        35% { transform: translate(0px, -10px) }
+        55% { transform: translate(0px, -10px) }
+        60% { transform: translate(0px, 0px) }
+        61% { transform: translate(0px, 8px) }
+        62% { transform: translate(0px, 0px) }
+        100% { transform: translate(0px, 0px) }
+      }
+
+      #up-arrow {
+        animation-duration: 2s;
+        animation-name: stretch-up;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      #down-arrow {
+        animation-duration: 2s;
+        animation-name: stretch-down;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+    </style>
+  </defs>
+  <g id="up-arrow">
+    <polygon points="35.14 47.41 44.86 47.41 44.86 22.95 56.55 22.95 40 6.4 23.45 22.95 35.14 22.95 35.14 47.41" style="fill: #656b7b;"/>
+  </g>
+  <g id="down-arrow">
+    <polygon points="44.86 32.07 35.14 32.07 35.14 56.87 23.45 56.87 40 73.41 56.55 56.87 44.86 56.87 44.86 32.07" style="fill: #656b7b;"/>
+  </g>
+
+
+  
+</svg>

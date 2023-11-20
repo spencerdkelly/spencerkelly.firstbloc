@@ -19,26 +19,37 @@
   font-weight: 700;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Manrope-Variable';
+  src: url('../fonts/manrope/Manrope[wght].woff2') format('woff2 supports variations'),
+       url('../fonts/manrope/Manrope[wght].woff2') format('woff2-variations');
+  font-weight: 100 1000;
+}
+
 
 body {
 	font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -.01em;
 }
 
 h1, h2, h3, h4 {
 	margin: 0;
-	font-weight: 400;
+	font-weight: 550;
 	padding: 0;
 }
 
 h1 {
 	font-size: 2.6em;
-	font-weight: 600;
 	margin-bottom: 10px;
-	font-family: 'Manrope-SemiBold', sans-serif;
 
   @include tablet {
       font-size: 3.5em;
   }
+}
+
+h3 {
+  font-size: 1.25em;
 }
 
 .lighter {
@@ -123,27 +134,42 @@ p.padded {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-discord:before {
-  content: "\e900";
-}
-.icon-github:before {
-  content: "\e901";
-}
-.icon-instagram:before {
-  content: "\e93d";
-}
-.icon-linkedin:before {
-  content: "\e93e";
-}
-.icon-twitter:before {
-  content: "\e93f";
-}
-.icon-email:before {
+.icon-pause:before {
   content: "\e902";
 }
-.icon-head:before {
+.icon-stop:before {
+  content: "\e90b";
+}
+.icon-play:before {
+  content: "\e90c";
+}
+.icon-speaker-off:before {
+  content: "\e900";
+}
+.icon-speaker-on:before {
+  content: "\e901";
+}
+.icon-discord:before {
   content: "\e903";
 }
-.icon-x:before {
+.icon-github:before {
+  content: "\e905";
+}
+.icon-instagram:before {
+  content: "\e907";
+}
+.icon-linkedin:before {
+  content: "\e908";
+}
+.icon-twitter:before {
+  content: "\e909";
+}
+.icon-email:before {
   content: "\e904";
+}
+.icon-head:before {
+  content: "\e906";
+}
+.icon-x:before {
+  content: "\e90a";
 }

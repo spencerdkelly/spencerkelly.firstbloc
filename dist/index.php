@@ -71,77 +71,189 @@
           <div class="work-thumbs">
             <div class="thumb">
               <a href="flovatar.php">
-                <img src="images/case-studies/flovatar/ipad-flovatar.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/flovatar/ipad-flovatar.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Flovatar</h3>
+                  <p><span>Total product creation for a ground breaking web 3 NFT series.</span></p>
+                </div>
               </a>
             </div>
             <div class="thumb">
               <a href="whitley-neill-gin.php">
-                <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Whitley Neill Gin</h3>
+                  <p><span>National OOH campaign for the UK's number one premium gin.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="sportvatar.php">
-                <img src="images/case-studies/sportvatar/sportvatar-mobile-builder.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/sportvatar/sportvatar-mobile-builder.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Sportvatar</h3>
+                  <p><span>Launching an NFT series with Gazzetta dello Sport and Marca newspapers.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="wholesale-coffee-co.php">
-                <img src="images/case-studies/wcc/wcc-bag.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/wcc/wcc-bag.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Wholesale Coffee Co.</h3>
+                  <p><span>Creating an identity for a new wholesale, direct to consumer coffee brand.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="aber-falls.php">
-                <img src="images/case-studies/aber-falls/af-logo.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/aber-falls/af-logo.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Aber Falls Distillery</h3>
+                  <p><span>Creating the identity for the first North Wales whisky distillery in over 100 years.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="atomeca.php">
-                <img src="images/case-studies/atomeca/at-logo-thumb.svg" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/atomeca/at-logo-thumb.svg" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Atomeca</h3>
+                  <p><span>Creating the brand identity for a new premium Manchester bistro.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="dimascio.php">
-                <img src="images/case-studies/dimascio/dm-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/dimascio/dm-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Di Mascio</h3>
+                  <p><span>Designing the website shop for a new pro track cycling brand.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="rijo.php">
-                <img src="images/case-studies/rijo/rj-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/rijo/rj-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Rijo Coffee</h3>
+                  <p><span>Refreshing the brand identity for one of the UK's largest commercial coffee suppliers.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="rolls-royce.php">
-                <img src="images/case-studies/rolls-royce/rr-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/rolls-royce/rr-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Rolls Royce</h3>
+                  <p><span>Concepting and designing internal communication campaigns.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
               <a href="schofields.php">
-                <img src="images/case-studies/schofields/sf-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/schofields/sf-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Schofield's Bar</h3>
+                  <p><span>Graphic design and typesetting for the UK's best cocktail bar.</span></p>
+                </div>      
               </a>
             </div>
             <div class="thumb">
-              <a href="chivas-regal.php">
-               <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" />
+              <a href="workstack.php">
+                <div class="thumb-img">
+                  <img src="images/case-studies/workstack/ws-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Workstack</h3>
+                  <p><span>Creating a subscription based task management web app.</span></p>
+                </div>         
               </a>
             </div>
             <div class="thumb">
               <a href="aldi.php">
-                <img src="images/case-studies/aldi/aldi-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/aldi/aldi-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Aldi</h3>
+                  <p><span>Creating an online media resource facility.</span></p>
+                </div>     
               </a>
             </div>
             <div class="thumb">
               <a href="chu-lo.php">
-                <img src="images/case-studies/chu-lo/cl-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/chu-lo/cl-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Chu Lo Drinks</h3>
+                  <p><span>Campaign activation for a start-up soft drinks brand.</span></p>
+                </div>        
+              </a>
+            </div>
+            <div class="thumb">
+              <a href="chivas-regal.php">
+                <div class="thumb-img">
+                  <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Chivas Regal</h3>
+                  <p><span>Limited edition designs for pre-mixed whisky cocktails.</span></p>
+                </div>  
+              </a>
+            </div>
+            <div class="thumb">
+              <a href="fentimans.php">
+                <div class="thumb-img">
+                  <img src="images/case-studies/fentimans/fm-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Fentimans</h3>
+                  <p><span>Creating the Fentimans "Crafted for Mixing" video series.</span></p>
+                </div>  
               </a>
             </div>
             <div class="thumb">
               <a href="tsingtao.php">
-                <img src="images/case-studies/tsingtao/ts-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/tsingtao/ts-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Tsingtao Beer</h3>
+                  <p><span>Advertising China's biggest exported beer brand to the UK market.</span></p>
+                </div>  
               </a>
             </div>
             <div class="thumb">
               <a href="beijing-badass.php">
-                <img src="images/case-studies/beijing-badass/bb-thumb.avif" alt="" />
+                <div class="thumb-img">
+                  <img src="images/case-studies/beijing-badass/bb-thumb.avif" alt="" />
+                </div>
+                <div class="thumb-title">
+                  <h3>Tsingtao Beer</h3>
+                  <p><span>Innovative online campaign utilising browser speech recognition.</span></p>
+                </div>  
               </a>
             </div>
           </div>

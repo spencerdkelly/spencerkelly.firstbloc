@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      @keyframes time-spin {
+        0% { transform: rotate(0deg) }
+        100% { transform: rotate(360deg) }
+      }
+      @keyframes time-spin-hour {
+        0% { transform: rotate(0deg) }
+        100% { transform: rotate(360deg) }
+      }
+      #time-min {
+        animation-duration: 3s; 
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transform-origin: bottom;
+        transform-box: fill-box;
+      }
+      #time-hour {
+        animation-duration: 10s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transform-origin: bottom;
+        transform-box: fill-box;
+        transform: rotate(115deg);
+      }
+      circle, line {
+        stroke: #646b7a !important;
+      }
+    </style>
+  </defs>
+  <circle cx="40" cy="40" r="34.29" style="fill: none; stroke: #646b7a; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  <line id="time-min" x1="40" y1="20.38" x2="40" y2="39.47" style="fill: none; stroke: #646b7a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  <line id="time-hour" data-name="min" x1="40" y1="27.55" x2="40" y2="39.47" style="fill: none; stroke: #646b7a; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 7px;"/>
+</svg>

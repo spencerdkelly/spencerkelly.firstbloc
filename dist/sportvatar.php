@@ -18,7 +18,7 @@
         <div class="work-layout">
           <div class="work-row col-1">
             <div class="col">
-              <div class="item-slider-container sportvatar-green">
+              <div class="item-slider-container sportvatar-green sportvatar-characters">
                 <div class="item-slider-wrapper">
                   <div class="item-slider-mover">
                     <div class="slide-item">

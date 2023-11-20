@@ -54,7 +54,7 @@
             <div class="col">
               <blockquote class="blockquote">
                 <p class="work-quote">
-                  Utilising the speech recognition tools built into Webkit based browsers I concepted, designed and built a <a href="#" class="inline tsingtao">fun campaign</a> that placed viewers in front of a Triad boss, where they were forced to speak Chinese.
+                  Utilising the speech recognition tools built into Webkit based browsers I concepted, designed and built a <a href="https://beijing-badass.firstbloc.com" class="inline tsingtao">fun campaign</a> that placed viewers in front of a Triad boss, where they were forced to speak Chinese.
                 </p>
               </blockquote>
             </div>
