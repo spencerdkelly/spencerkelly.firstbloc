@@ -497,6 +497,7 @@ body.light .slide-counter {
 	left: 0;
 	border-radius: 3px;
 	transition: width .5s linear;
+	pointer-events: none;
 }
 
 progress, .seek {

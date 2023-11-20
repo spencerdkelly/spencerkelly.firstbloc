@@ -10,14 +10,16 @@ const progressBar = document.getElementById('progress-bar')
 const progressBar2 = document.getElementById('progress-bar.v2')
 const video1 = document.getElementById('video1')
 const video2 = document.getElementById('video2')
-const seek1 = document.querySelector('.seek-progress');
-const seek2 = document.querySelector('.seek-progress.v2');
+const seekProgress1 = document.querySelector('.seek-progress');
+const seekProgress2 = document.querySelector('.seek-progress.v2');
+const seek1 = document.querySelector('.seek');
+const seek2 = document.querySelector('.seek.v2');
 
 function updateProgress(video, s) {
-    let seek = (s == 1) ? seek1 : seek2 
-    seek.value = Math.floor(video.currentTime)
-    seek.played = Math.floor(seek.value / video.duration * 100)
-    seek.setAttribute('style','width:'+seek.played+'%');
+    let seekProgress = (s == 1) ? seekProgress1 : seekProgress2 
+    seekProgress.value = Math.floor(video.currentTime)
+    seekProgress.played = Math.floor(seekProgress.value / video.duration * 100)
+    seekProgress.setAttribute('style','width:'+seekProgress.played+'%');
 }
 
 function getVideo(id) {
@@ -95,6 +97,27 @@ function toggleVideo(e) {
     } else {
         video.pause();
     }
+}
+
+// VIDEO SEEK
+if(seek1) {
+    seek1.addEventListener('click', seekVideo)
+}
+if(seek2) {
+    seek2.addEventListener('click', seekVideo)
+}
+
+function seekVideo(e) {
+    let video = getVideo(e.target.getAttribute('data-video'))
+
+    let clickX = e.clientX
+    let pos = e.currentTarget.getBoundingClientRect()
+    let seekStart = pos.left
+    let seekEnd = pos.left + pos.width
+    let seekTarget = (clickX - seekStart) / (seekEnd - seekStart)
+    let seekTime = video.duration * seekTarget
+
+    video.currentTime = seekTime
 }
 
 
