@@ -34,7 +34,7 @@
 	                	<div class="center">
 	                		<div class="video-progress">
 							  	<progress id="progress-bar" value="0" min="0" class="hide"></progress>
-							   	<div class="seek">
+							   	<div class="seek" data-video="video1">
 							   		<div class="seek-progress"></div>
 							   	</div>		
 							</div>
@@ -159,7 +159,7 @@
 	                	<div class="center">
 	                		<div class="video-progress">
 							  	<progress id="progress-bar v2" value="0" min="0" class="hide"></progress>
-							   	<div class="seek v2">
+							   	<div class="seek v2" data-video="video2">
 							   		<div class="seek-progress v2"></div>
 							   	</div>		
 							</div>
