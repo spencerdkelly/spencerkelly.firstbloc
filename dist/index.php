@@ -20,7 +20,7 @@
                       <span class="slide-desc">Web 3 digital collectibles start-up</span>
                     </div>
                   </div>
-                  <a href="sportvatar.php"></a>
+                  <a href="sportvatar"></a>
               </div>
               <div class="slide slide-2">   
                   <div class="video-container">
@@ -37,7 +37,7 @@
                       <span class="slide-desc">Brand identity creation</span>
                     </div>
                   </div>
-                  <a href="aber-falls.php"></a>
+                  <a href="aber-falls"></a>
               </div>
               <div class="slide slide-3">  
                   <div class="image-container">
@@ -49,7 +49,7 @@
                       <span class="slide-desc">Brand repositioning & OOH campaign</span>
                     </div>
                   </div>
-                  <a href="whitley-neill-gin.php"></a>
+                  <a href="whitley-neill-gin"></a>
               </div>  
               
             </div>
@@ -70,7 +70,7 @@
 
           <div class="work-thumbs">
             <div class="thumb">
-              <a href="flovatar.php">
+              <a href="flovatar">
                 <div class="thumb-img">
                   <img src="images/case-studies/flovatar/ipad-flovatar.avif" alt="" />
                 </div>
@@ -81,7 +81,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="whitley-neill-gin.php">
+              <a href="whitley-neill-gin">
                 <div class="thumb-img">
                   <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" />
                 </div>
@@ -92,7 +92,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="sportvatar.php">
+              <a href="sportvatar">
                 <div class="thumb-img">
                   <img src="images/case-studies/sportvatar/sportvatar-mobile-builder.avif" alt="" />
                 </div>
@@ -103,7 +103,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="wholesale-coffee-co.php">
+              <a href="wholesale-coffee-co">
                 <div class="thumb-img">
                   <img src="images/case-studies/wcc/wcc-bag.avif" alt="" />
                 </div>
@@ -114,7 +114,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="aber-falls.php">
+              <a href="aber-falls">
                 <div class="thumb-img">
                   <img src="images/case-studies/aber-falls/af-logo.avif" alt="" />
                 </div>
@@ -125,7 +125,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="atomeca.php">
+              <a href="atomeca">
                 <div class="thumb-img">
                   <img src="images/case-studies/atomeca/at-logo-thumb.svg" alt="" />
                 </div>
@@ -136,7 +136,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="dimascio.php">
+              <a href="dimascio">
                 <div class="thumb-img">
                   <img src="images/case-studies/dimascio/dm-thumb.avif" alt="" />
                 </div>
@@ -147,7 +147,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="rijo.php">
+              <a href="rijo">
                 <div class="thumb-img">
                   <img src="images/case-studies/rijo/rj-thumb.avif" alt="" />
                 </div>
@@ -158,7 +158,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="rolls-royce.php">
+              <a href="rolls-royce">
                 <div class="thumb-img">
                   <img src="images/case-studies/rolls-royce/rr-thumb.avif" alt="" />
                 </div>
@@ -169,7 +169,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="schofields.php">
+              <a href="schofields">
                 <div class="thumb-img">
                   <img src="images/case-studies/schofields/sf-thumb.avif" alt="" />
                 </div>
@@ -180,7 +180,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="workstack.php">
+              <a href="workstack">
                 <div class="thumb-img">
                   <img src="images/case-studies/workstack/ws-thumb.avif" alt="" />
                 </div>
@@ -191,7 +191,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="aldi.php">
+              <a href="aldi">
                 <div class="thumb-img">
                   <img src="images/case-studies/aldi/aldi-thumb.avif" alt="" />
                 </div>
@@ -202,7 +202,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="chu-lo.php">
+              <a href="chu-lo">
                 <div class="thumb-img">
                   <img src="images/case-studies/chu-lo/cl-thumb.avif" alt="" />
                 </div>
@@ -213,7 +213,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="chivas-regal.php">
+              <a href="chivas-regal">
                 <div class="thumb-img">
                   <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" />
                 </div>
@@ -224,7 +224,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="fentimans.php">
+              <a href="fentimans">
                 <div class="thumb-img">
                   <img src="images/case-studies/fentimans/fm-thumb.avif" alt="" />
                 </div>
@@ -235,7 +235,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="tsingtao.php">
+              <a href="tsingtao">
                 <div class="thumb-img">
                   <img src="images/case-studies/tsingtao/ts-thumb.avif" alt="" />
                 </div>
@@ -246,7 +246,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="beijing-badass.php">
+              <a href="beijing-badass">
                 <div class="thumb-img">
                   <img src="images/case-studies/beijing-badass/bb-thumb.avif" alt="" />
                 </div>
