@@ -5,7 +5,6 @@
     <meta name="description" content="Spencer Kelly's work portfolio" />
     <meta name="robots" content="noindex, nofollow" />
     <meta http-equiv="Cache-control" content="public">
-    <?php header('Cache-Control: max-age=86400'); ?>
     <link href="https://cdn.jsdelivr.net/npm/modern-normalize@v2.0.0/modern-normalize.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/main.min.css" />
     <script defer src="js/main.min.js"></script>
