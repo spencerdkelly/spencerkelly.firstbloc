@@ -1,3 +1,12 @@
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule !.*.php$ %{REQUEST_FILENAME}.php [QSA,L] 
+
+<IfModule mod_expires.c>
+ExpiresActive On
+############################################
+## Add default Expires header
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|avif|svg|webp|mp4|webm)$">
+ExpiresDefault "access plus 1 year"
+</FilesMatch>
+</IfModule>
