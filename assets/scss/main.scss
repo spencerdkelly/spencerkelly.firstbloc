@@ -1,6 +1,7 @@
 
 /*------------ IMPORT -------------*/ 
 
+@import 'normalize';
 @import 'variables';
 @import 'typography';
 @import 'mixins';
@@ -175,11 +176,12 @@ img.full.social {
 	position: absolute;
 	padding: 40px 15px;
 	display: flex;
-	width: 100%;
+	width: calc(100vw - 30px);
 	z-index: 10;
 
 	@include tablet {
     	padding: 40px;
+    	width: calc(100vw - 80px);
   	}
 }
 
@@ -206,6 +208,7 @@ body.light-header a:before {
 	display: flex;
 	font-size: 20px;
 	font-family: 'Manrope', sans-serif;
+	font-weight: 550;
 }
 
 .nav li {
