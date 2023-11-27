@@ -6,24 +6,11 @@
 /*------------ TYPOGRAPHY -------------*/
 
 @font-face {
-  font-family: 'Manrope';
-  src: url('../fonts/manrope/Manrope-Regular.woff2') format('woff2'),
-       url('../fonts/manrope/Manrope-Regular.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Manrope-SemiBold';
-  src: url('../fonts/manrope/Manrope-SemiBold.woff2') format('woff2'),
-       url('../fonts/manrope/Manrope-SemiBold.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
   font-family: 'Manrope-Variable';
   src: url('../fonts/manrope/Manrope[wght].woff2') format('woff2 supports variations'),
        url('../fonts/manrope/Manrope[wght].woff2') format('woff2-variations');
   font-weight: 100 1000;
+  font-display: swap;
 }
 
 

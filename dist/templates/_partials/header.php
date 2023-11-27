@@ -4,9 +4,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="description" content="Spencer Kelly's work portfolio" />
     <meta name="robots" content="noindex, nofollow" />
+    <meta http-equiv="Cache-control" content="public">
     <link href="https://cdn.jsdelivr.net/npm/modern-normalize@v2.0.0/modern-normalize.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/main.css" />
-    <script defer src="js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/main.min.css" />
+    <script defer src="js/main.min.js"></script>
     <link rel="icon" href="/favicon.png">
   </head>
   <body>
@@ -16,14 +17,14 @@
       <div class="header">
         <div class="logo">
           <div class="brand-logo">
-            <a href="/">
+            <a href="/" aria-label="Home">
               <i class="icon-head"></i>
             </a>
           </div>
         </div>
         <div class="nav">
           <ul>
-            <li><a href="/">Work</a></li>
+            <li><a href="/" aria-label="Work">Work</a></li>
             <li><a href="about">About</a></li>
           </ul>
         </div>

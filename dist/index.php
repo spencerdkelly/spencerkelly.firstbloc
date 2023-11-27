@@ -20,7 +20,7 @@
                       <span class="slide-desc">Web 3 digital collectibles start-up</span>
                     </div>
                   </div>
-                  <a href="sportvatar"></a>
+                  <a href="sportvatar" aria-label="Sportvatar"></a>
               </div>
               <div class="slide slide-2">   
                   <div class="video-container">
@@ -29,7 +29,7 @@
                     </video>
                   </div>
                   <div class="overlay-image">
-                    <img class="square-logo" src="images/case-studies/aber-falls/af-logo.svg" alt="" />
+                    <img class="square-logo" src="images/case-studies/aber-falls/af-logo.svg" alt="">
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -37,7 +37,7 @@
                       <span class="slide-desc">Brand identity creation</span>
                     </div>
                   </div>
-                  <a href="aber-falls"></a>
+                  <a href="aber-falls" aria-label="Aber Falls Distillery"></a>
               </div>
               <div class="slide slide-3">  
                   <div class="image-container">
@@ -49,7 +49,7 @@
                       <span class="slide-desc">Brand repositioning & OOH campaign</span>
                     </div>
                   </div>
-                  <a href="whitley-neill-gin"></a>
+                  <a href="whitley-neill-gin" aria-label="Whitley Neill Gin"></a>
               </div>  
               
             </div>
@@ -70,7 +70,7 @@
 
           <div class="work-thumbs">
             <div class="thumb">
-              <a href="flovatar">
+              <a href="flovatar" aria-label="Flovatar">
                 <div class="thumb-img">
                   <img src="images/case-studies/flovatar/ipad-flovatar.avif" alt="" />
                 </div>
@@ -81,7 +81,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="whitley-neill-gin">
+              <a href="whitley-neill-gin" aria-label="Whitley Neill Gin">
                 <div class="thumb-img">
                   <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" />
                 </div>
@@ -92,7 +92,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="sportvatar">
+              <a href="sportvatar" aria-label="Sportvatar">
                 <div class="thumb-img">
                   <img src="images/case-studies/sportvatar/sportvatar-mobile-builder.avif" alt="" />
                 </div>
@@ -103,7 +103,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="wholesale-coffee-co">
+              <a href="wholesale-coffee-co" aria-label="Wholesale Coffee Co.">
                 <div class="thumb-img">
                   <img src="images/case-studies/wcc/wcc-bag.avif" alt="" />
                 </div>
@@ -114,7 +114,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="aber-falls">
+              <a href="aber-falls" aria-label="Aber Falls Distillery">
                 <div class="thumb-img">
                   <img src="images/case-studies/aber-falls/af-logo.avif" alt="" />
                 </div>
@@ -125,7 +125,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="atomeca">
+              <a href="atomeca" aria-label="Atomeca">
                 <div class="thumb-img">
                   <img src="images/case-studies/atomeca/at-logo-thumb.svg" alt="" />
                 </div>
@@ -136,7 +136,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="dimascio">
+              <a href="dimascio" aria-label="Di Mascio">
                 <div class="thumb-img">
                   <img src="images/case-studies/dimascio/dm-thumb.avif" alt="" />
                 </div>
@@ -147,7 +147,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="rijo">
+              <a href="rijo" aria-label="Rijo">
                 <div class="thumb-img">
                   <img src="images/case-studies/rijo/rj-thumb.avif" alt="" />
                 </div>
@@ -158,7 +158,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="rolls-royce">
+              <a href="rolls-royce" aria-label="Rolls Royce">
                 <div class="thumb-img">
                   <img src="images/case-studies/rolls-royce/rr-thumb.avif" alt="" />
                 </div>
@@ -169,7 +169,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="schofields">
+              <a href="schofields" aria-label="Schofields">
                 <div class="thumb-img">
                   <img src="images/case-studies/schofields/sf-thumb.avif" alt="" />
                 </div>
@@ -180,7 +180,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="workstack">
+              <a href="workstack" aria-label="Workstack">
                 <div class="thumb-img">
                   <img src="images/case-studies/workstack/ws-thumb.avif" alt="" />
                 </div>
@@ -191,7 +191,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="aldi">
+              <a href="aldi" aria-label="Aldi">
                 <div class="thumb-img">
                   <img src="images/case-studies/aldi/aldi-thumb.avif" alt="" />
                 </div>
@@ -202,7 +202,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="chu-lo">
+              <a href="chu-lo" aria-label="Chu Lo">
                 <div class="thumb-img">
                   <img src="images/case-studies/chu-lo/cl-thumb.avif" alt="" />
                 </div>
@@ -213,7 +213,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="chivas-regal">
+              <a href="chivas-regal" aria-label="Chivas Regal">
                 <div class="thumb-img">
                   <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" />
                 </div>
@@ -224,7 +224,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="fentimans">
+              <a href="fentimans" aria-label="Fentimans">
                 <div class="thumb-img">
                   <img src="images/case-studies/fentimans/fm-thumb.avif" alt="" />
                 </div>
@@ -235,7 +235,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="tsingtao">
+              <a href="tsingtao" aria-label="Tsingtao Beer">
                 <div class="thumb-img">
                   <img src="images/case-studies/tsingtao/ts-thumb.avif" alt="" />
                 </div>
@@ -246,7 +246,7 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="beijing-badass">
+              <a href="beijing-badass" aria-label="Beijing Badass">
                 <div class="thumb-img">
                   <img src="images/case-studies/beijing-badass/bb-thumb.avif" alt="" />
                 </div>
