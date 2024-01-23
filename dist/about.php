@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
+  <?php
+    $title = 'About';
+  ?>
   
   <?php include 'templates/_partials/header.php'; ?>
 
@@ -24,7 +28,7 @@
                 <blockquote class="blockquote">
                   <p class="padded">Hi, I'm Spencer Kelly,</p>
                   <p>a talented and versatile creative with over 18 years industry experience, who can lead creative projects as well as get stuck in with the design work and digital prototyping.</p>
-                  <p>My latest role was being the creative director for a Web 3 start-up, and prior to that I've worked for both SMEs and Blue Chips as a digital art director and creative lead.</p>
+                  <p>My latest role was being the creative lead for a Web 3 start-up, and prior to that I've worked for both SMEs and Blue Chips as a digital art director and senior designer.</p>
                   <p>I have had a substantial role in every project featured here.</p>
                   <p class="padded">
                     <span class="highlight"><a id="contact" href="">Send me an email <i class="icon-email"></i></a></span>

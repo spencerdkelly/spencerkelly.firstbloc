@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
+  <?php
+    $title = 'Workstack';
+  ?>
   
   <?php include 'templates/_partials/header.php'; ?>
 
@@ -16,6 +20,25 @@
         </header>
 
         <div class="work-layout">
+
+        	<div class="work-row col-1">
+            <div class="col">
+              <img src="images/case-studies/workstack/ws-hero.avif" class="full" alt="" />
+            </div>
+          </div>
+
+          <div class="work-row col-2">
+            <div class="col">
+              <blockquote class="blockquote">
+                <p class="work-quote">
+                  Workstack was a fully functional subscription based SaaS app that ran for 10 years. I was the co-founder and concept creator covering all creative aspects including the UI/UX design and front-end web development.
+                </p>
+              </blockquote>
+            </div>
+            <div class="col">
+         
+            </div>
+          </div>
 
         	<div class="work-row col-1">
 	            <div class="col">
@@ -55,7 +78,7 @@
 			    <div class="col">
 			      <blockquote class="blockquote">
 			        <p class="work-quote">
-			          Workstack was a fully functional subscription based SaaS app that ran for 10 years. I was the co-founder and concept creator covering all creative aspects including the UI/UX design and front-end web development.
+			          I also created the promo video animation sequences that helped to explain the concept of Workstack to would be users.
 			        </p>
 			      </blockquote>
 			    </div>

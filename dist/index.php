@@ -10,19 +10,44 @@
           <div class="slide-wrapper">
             <div class="slide-wrapper-inner">
 
-              <div class="slide slide-1 active"> 
+              
+              <div class="slide slide-1 active">   
                   <div class="image-container">
-                    <img src="images/case-studies/sportvatar/sportvatar-feature.avif" alt="" width="1960" height="1080" />
+                    <img src="images/case-studies/workstack/ws-hero.avif" alt="" width="1920" height="1080" />
                   </div>
                   <div class="slide-overlay">
                     <div>
-                      <span class="slide-title">Sportvatar</span>
-                      <span class="slide-desc">Web 3 digital collectibles start-up</span>
+                      <span class="slide-title">Workstack</span>
+                      <span class="slide-desc">SaaS app design</span>
                     </div>
                   </div>
-                  <a href="sportvatar" aria-label="Sportvatar"></a>
+                  <a href="workstack" aria-label="Workstack" class="slider-link"></a>
               </div>
               <div class="slide slide-2">   
+                  <div class="image-container">
+                    <img src="images/case-studies/figma/figma-hero.avif" alt="" width="1920" height="1080" />
+                  </div>
+                  <div class="slide-overlay">
+                    <div>
+                      <span class="slide-title">Figma</span>
+                      <span class="slide-desc">Custom Component Design</span>
+                    </div>
+                  </div>
+                  <a href="figma" aria-label="Figma" class="slider-link"></a>
+              </div>
+              <div class="slide slide-3">   
+                  <div class="image-container">
+                    <img src="images/case-studies/coco-loco/cl-hero.avif" alt="" width="1920" height="1080" />
+                  </div>
+                  <div class="slide-overlay">
+                    <div>
+                      <span class="slide-title">Coco Loco</span>
+                      <span class="slide-desc">Brand identity creation</span>
+                    </div>
+                  </div>
+                  <a href="coco-loco" aria-label="Coco Loco" class="slider-link"></a>
+              </div>
+              <div class="slide slide-4">   
                   <div class="video-container">
                     <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
                         <source src="images/case-studies/aber-falls/waterfall.mp4" type="video/mp4">
@@ -37,9 +62,21 @@
                       <span class="slide-desc">Brand identity creation</span>
                     </div>
                   </div>
-                  <a href="aber-falls" aria-label="Aber Falls Distillery"></a>
+                  <a href="aber-falls" aria-label="Aber Falls Distillery" class="slider-link"></a>
               </div>
-              <div class="slide slide-3">  
+              <div class="slide slide-5"> 
+                  <div class="image-container">
+                    <img src="images/case-studies/sportvatar/sportvatar-feature.avif" alt="" width="1920" height="1080" />
+                  </div>
+                  <div class="slide-overlay">
+                    <div>
+                      <span class="slide-title">Sportvatar</span>
+                      <span class="slide-desc">Web 3 digital collectibles start-up</span>
+                    </div>
+                  </div>
+                  <a href="sportvatar" aria-label="Sportvatar" class="slider-link"></a>
+              </div>
+              <div class="slide slide-6">  
                   <div class="image-container">
                       <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" width="1960" height="1080">
                   </div>
@@ -49,7 +86,7 @@
                       <span class="slide-desc">Brand repositioning & OOH campaign</span>
                     </div>
                   </div>
-                  <a href="whitley-neill-gin" aria-label="Whitley Neill Gin"></a>
+                  <a href="whitley-neill-gin" aria-label="Whitley Neill Gin" class="slider-link"></a>
               </div>  
               
             </div>
@@ -69,10 +106,21 @@
         
 
           <div class="work-thumbs">
+             <div class="thumb">
+              <a href="figma" aria-label="Figma Components">
+                <div class="thumb-img">
+                  <img src="images/case-studies/figma/figma-hero.avif" alt="" width="1080" height="720">
+                </div>
+                <div class="thumb-title">
+                  <h3>Figma Community</h3>
+                  <p><span>Custom component creation.</span></p>
+                </div>
+              </a>
+            </div>
             <div class="thumb">
               <a href="flovatar" aria-label="Flovatar">
                 <div class="thumb-img">
-                  <img src="images/case-studies/flovatar/ipad-flovatar.avif" alt="" width="1080" height="720">
+                  <img src="images/case-studies/flovatar/flovatar-story.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Flovatar</h3>
@@ -94,7 +142,7 @@
             <div class="thumb">
               <a href="sportvatar" aria-label="Sportvatar">
                 <div class="thumb-img">
-                  <img src="images/case-studies/sportvatar/sportvatar-mobile-builder.avif" alt=""  width="1080" height="720">
+                  <img src="images/case-studies/sportvatar/sportvatar-ipad.avif" alt=""  width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Sportvatar</h3>
@@ -147,14 +195,14 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="rijo" aria-label="Rijo">
+              <a href="coco-loco" aria-label="Coco Loco">
                 <div class="thumb-img">
-                  <img src="images/case-studies/rijo/rj-thumb.avif" alt="" width="1080" height="720">
+                  <img src="images/case-studies/coco-loco/cl-hero.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
-                  <h3>Rijo Coffee</h3>
-                  <p><span>Refreshing the brand identity for one of the UK's largest commercial coffee suppliers.</span></p>
-                </div> 
+                  <h3>Coco Loco</h3>
+                  <p><span>Brand identity creation for a new hot chocolate.</span></p>
+                </div>  
               </a>
             </div>
             <div class="thumb">
@@ -182,7 +230,7 @@
             <div class="thumb">
               <a href="workstack" aria-label="Workstack">
                 <div class="thumb-img">
-                  <img src="images/case-studies/workstack/ws-thumb.avif" alt="" width="1080" height="720">
+                  <img src="images/case-studies/workstack/ws-hero.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Workstack</h3>
@@ -213,14 +261,14 @@
               </a>
             </div>
             <div class="thumb">
-              <a href="chivas-regal" aria-label="Chivas Regal">
+              <a href="rijo" aria-label="Rijo">
                 <div class="thumb-img">
-                  <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" width="1080" height="720">
+                  <img src="images/case-studies/rijo/rj-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
-                  <h3>Chivas Regal</h3>
-                  <p><span>Limited edition designs for pre-mixed whisky cocktails.</span></p>
-                </div>  
+                  <h3>Rijo Coffee</h3>
+                  <p><span>Refreshing the brand identity for one of the UK's largest commercial coffee suppliers.</span></p>
+                </div> 
               </a>
             </div>
             <div class="thumb">
@@ -256,7 +304,19 @@
                 </div>  
               </a>
             </div>
+            <div class="thumb">
+              <a href="chivas-regal" aria-label="Chivas Regal">
+                <div class="thumb-img">
+                  <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" width="1080" height="720">
+                </div>
+                <div class="thumb-title">
+                  <h3>Chivas Regal</h3>
+                  <p><span>Limited edition designs for pre-mixed whisky cocktails.</span></p>
+                </div>  
+              </a>
+            </div>
           </div>
+          
 
         
           <?php include 'templates/_partials/footer.php'; ?>

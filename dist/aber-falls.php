@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  
+
+  <?php
+    $title = 'Aber Falls';
+  ?>
+    
   <?php include 'templates/_partials/header.php'; ?>
 
       <div>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" overflow="hidden">
+  <defs>
+
+    <style>
+
+      @keyframes fade-in {
+          0% { opacity: 0 }
+          100% { opacity: 1 }
+      }
+
+      @keyframes name-in-1 {
+          0% { transform: translateY(40px); opacity: 0 }
+          15% { transform: translateY(40px); opacity: 0 }
+          20% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-2 {
+          0% { transform: translateY(40px); opacity: 0 }
+          17% { transform: translateY(40px); opacity: 0 }
+          22% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-3 {
+          0% { transform: translateY(40px); opacity: 0 }
+          19% { transform: translateY(40px); opacity: 0 }
+          24% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-4 {
+          0% { transform: translateY(40px); opacity: 0 }
+          21% { transform: translateY(40px); opacity: 0 }
+          26% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-5 {
+          0% { transform: translateY(40px); opacity: 0 }
+          23% { transform: translateY(40px); opacity: 0 }
+          28% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-6 {
+          0% { transform: translateY(40px); opacity: 0 }
+          25% { transform: translateY(40px); opacity: 0 }
+          30% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-7 {
+          0% { transform: translateY(40px); opacity: 0 }
+          23% { transform: translateY(40px); opacity: 0 }
+          27% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-8 {
+          0% { transform: translateY(40px); opacity: 0 }
+          25% { transform: translateY(40px); opacity: 0 }
+          39% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-9 {
+          0% { transform: translateY(40px); opacity: 0 }
+          27% { transform: translateY(40px); opacity: 0 }
+          31% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes name-in-10 {
+          0% { transform: translateY(40px); opacity: 0 }
+          29% { transform: translateY(40px); opacity: 0 }
+          33% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+
+
+
+      @keyframes block-in-tall-1 {
+          0% { transform: translateY(800px); opacity: 0 }
+          2% { transform: translateY(800px); opacity: 0 }
+          22% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-tall-2 {
+          0% { transform: translateY(800px); opacity: 0 }
+          4% { transform: translateY(800px); opacity: 0 }
+          24% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-tall-3 {
+          0% { transform: translateY(800px); opacity: 0 }
+          6% { transform: translateY(800px); opacity: 0 }
+          26% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-tall-4 {
+          0% { transform: translateY(800px); opacity: 0 }
+          8% { transform: translateY(800px); opacity: 0 }
+          28% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-tall-5 {
+          0% { transform: translateY(800px); opacity: 0 }
+          10% { transform: translateY(800px); opacity: 0 }
+          30% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-tall-6 {
+          0% { transform: translateY(800px); opacity: 0 }
+          12% { transform: translateY(800px); opacity: 0 }
+          32% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+
+      @keyframes block-in-short-1 {
+          0% { transform: translateY(280px); opacity: 0 }
+          14% { transform: translateY(280px); opacity: 0 }
+          24% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-short-2 {
+          0% { transform: translateY(280px); opacity: 0 }
+          16% { transform: translateY(280px); opacity: 0 }
+          26% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-short-3 {
+          0% { transform: translateY(280px); opacity: 0 }
+          18% { transform: translateY(280px); opacity: 0 }
+          28% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+      @keyframes block-in-short-4 {
+          0% { transform: translateY(280px); opacity: 0 }
+          20% { transform: translateY(280px); opacity: 0 }
+          30% { transform: translateY(0); opacity: 1 }
+          95% { opacity: 1 }
+          100% { transform: translateY(0); opacity: 0 }
+      }
+
+
+      @keyframes pantone-in {
+          0% { opacity: 0 }
+          30% { opacity: 0 }
+          35% { opacity: 1 }
+          95% { opacity: 1 }
+          100% { opacity: 0 }
+      }
+      @keyframes RGB-in {
+          0% { opacity: 0 }
+          32% { opacity: 0 }
+          37% { opacity: 1 }
+          95% { opacity: 1 }
+          100% { opacity: 0 }
+      }
+      @keyframes CMYK-in {
+          0% { opacity: 0 }
+          34% { opacity: 0 }
+          39% { opacity: 1 }
+          95% { opacity: 1 }
+          100% { opacity: 0 }
+      }
+      @keyframes hex-in {
+          0% { opacity: 0 }
+          36% { opacity: 0 }
+          41% { opacity: 1 }
+          95% { opacity: 1 }
+          100% { opacity: 0 }
+      }
+
+
+
+      
+
+      .Hex, .CMYK, .RGB, .Pantone {
+        animation-duration: 8s;
+        animation-name: fade-in;
+        animation-iteration-count: infinite;
+        animation-fill-mode: forwards;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+
+      .Pantone {
+        opacity: 0;
+        animation-name: pantone-in;
+      }
+      .RGB {
+        opacity: 0;
+        animation-name: RGB-in;
+      }
+      .CMYK {
+        opacity: 0;
+        animation-name: CMYK-in;
+      }
+      .Hex {
+        opacity: 0;
+        animation-name: hex-in;
+      }
+
+
+
+
+      .name {
+        animation-duration: 8s;
+        animation-name: name-in;
+        animation-iteration-count: infinite;
+        animation-fill-mode: forwards;
+        transform-origin: center;
+        transform-box: fill-box;
+        opacity: 0;
+      }
+
+      .n1 {
+        animation-name: name-in-1;
+      }
+      .n2 {
+        animation-name: name-in-2;
+      }
+      .n3 {
+        animation-name: name-in-3;
+      }
+      .n4 {
+        animation-name: name-in-4;
+      }
+      .n5 {
+        animation-name: name-in-5;
+      }
+      .n6 {
+        animation-name: name-in-6;
+      }
+      .n7 {
+        animation-name: name-in-7;
+      }
+      .n8 {
+        animation-name: name-in-8;
+      }
+      .n9 {
+        animation-name: name-in-9;
+      }
+      .n10 {
+        animation-name: name-in-10;
+      }
+
+
+
+
+      
+
+      .block-tall {
+        transform: translateY(800px);
+        height: 800;
+        animation-duration: 8s;
+        animation-iteration-count: infinite;
+        animation-fill-mode: forwards;
+        transform-origin: bottom;
+        transform-box: fill-box;
+      }
+
+      .block-short {
+        transform: translateY(1080px);
+        height: 280;
+        animation-duration: 8s;
+        animation-name: block-in-short;
+        animation-iteration-count: infinite;
+        animation-fill-mode: forwards;
+        transform-origin: bottom;
+        transform-box: fill-box;
+      }
+
+      .b1 {
+        animation-name: block-in-tall-1;
+      }
+      .b2 {
+        animation-name: block-in-tall-2;
+      }
+      .b3 {
+        animation-name: block-in-tall-3;
+      }
+      .b4 {
+        animation-name: block-in-tall-4;
+      }
+      .b5 {
+        animation-name: block-in-tall-5;
+      }
+      .b6 {
+        animation-name: block-in-tall-6;
+      }
+
+      .bs1 {
+        animation-name: block-in-short-1;
+      }
+      .bs2 {
+        animation-name: block-in-short-2;
+      }
+      .bs3 {
+        animation-name: block-in-short-3;
+      }
+      .bs4 {
+        animation-name: block-in-short-4;
+      }
+
+
+    </style>
+
+    <clipPath id="clippath">
+      <rect width="1920" height="800" style="fill: none;"/>
+    </clipPath>
+
+  </defs>
+  <g id="blocks">
+    <g style="clip-path: url(#clippath);">
+      <rect width="320" height="800" style="fill: #470a72;" class="block-tall b1"/>
+      <rect x="320" width="320" height="800" style="fill: #ff1ab3;" class="block-tall b2"/>
+      <rect x="640" width="320" height="800" style="fill: #ffd710;" class="block-tall b3"/>
+      <rect x="960" width="320" height="800" style="fill: #fdea9b;" class="block-tall b4"/>
+      <rect x="1280" width="320" height="800" style="fill: #20ffd8;" class="block-tall b5"/>
+      <rect x="1600" width="320" height="800" style="fill: #bbfceb;" class="block-tall b6"/>
+    </g>
+    <rect y="800" width="480" height="280" class="block-short bs1"/>
+    <rect x="480" y="800" width="480" height="280" style="fill: #fff;" class="block-short bs2"/>
+    <rect x="960" y="800" width="480" height="280" style="fill: #efefef;" class="block-short bs3"/>
+    <rect x="1440" y="800" width="480" height="280" style="fill: #f8f8f5;" class="block-short bs4"/>
+  </g>
+  <g id="text">
+    <g class="name n1">
+      <text transform="translate(273.19 757.87) rotate(-90)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Indigo</tspan></text>
+    </g> 
+    <g class="name n2">
+      <text transform="translate(594.73 757.87) rotate(-90)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Hot Pink</tspan></text>
+    </g>
+    <g class="name n3">
+      <text transform="translate(917.8 757.87) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Gold</tspan></text>
+    </g>
+    <g class="name n4">
+      <text transform="translate(1243.96 757.87) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Flax</tspan></text>
+    </g>
+    <g class="name n5">
+      <text transform="translate(1554.73 757.87) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Aquamarine</tspan></text>
+    </g>
+    <g class="name n6">
+      <text transform="translate(1874.73 757.87) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Celeste</tspan></text>
+    </g>
+    <g class="name n7">
+      <text transform="translate(431.65 1042.48) rotate(-90)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Black</tspan></text>
+    </g>
+    <g class="name n8">
+      <text transform="translate(917.8 1042.48) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">White</tspan></text>
+    </g>
+    <g class="name n9">
+      <text transform="translate(1394.73 1042.48) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Stone</tspan></text>
+    </g>
+    <g class="name n10">
+      <text transform="translate(1871.65 1042.48) rotate(-90)" style="font-family: Helvetica, Helvetica; font-size: 60px;"><tspan x="0" y="0">Chalk</tspan></text>
+    </g>
+    <text class="Hex" transform="translate(30 330.98)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#470a72</tspan></text>  
+    <text class="Pantone" transform="translate(30 125.33)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone Medium Purple C</tspan></text>
+    <g class="CMYK">
+      <text transform="translate(30 296.05)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">9</tspan></text>
+      <text transform="translate(30 273.94)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">21</tspan></text>
+      <text transform="translate(30 251.83)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">100</tspan></text>
+      <text transform="translate(30 229.72)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">90</tspan></text>
+    </g>
+    <g class="RGB">
+      <text transform="translate(30 195.91)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0" style="letter-spacing: -.07em;">1</tspan><tspan x="40.92" y="0">14</tspan></text>
+      <text transform="translate(30 175.33)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">10</tspan></text>
+      <text transform="translate(30 154.74)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">71</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(30 1045.82)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#000000</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(30 840.31)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone Process Black</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(30 1011.16)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">100</tspan></text>
+      <text transform="translate(30 988.82)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(30 966.91)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(30 944.66)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(30 910.82)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(30 890.41)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(30 869.87)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(350 330.98)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#</tspan><tspan x="9.17" y="0" style="letter-spacing: -.02em;">f</tspan><tspan x="13.46" y="0">f1ab3</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(350 125.33)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone 807 C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(350 296.05)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(350 273.94)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(350 251.83)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">84</tspan></text>
+      <text transform="translate(350 229.72)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">13</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(350 195.91)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">179</tspan></text>
+      <text transform="translate(350 175.33)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">26</tspan></text>
+      <text transform="translate(350 154.74)" style="fill: #fff; font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">255</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(670 330.98)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#</tspan><tspan x="9.17" y="0" style="letter-spacing: -.02em;">f</tspan><tspan x="13.46" y="0">fd710</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(670 125.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone</tspan><tspan x="61.41" y="0" style="letter-spacing: -.02em;"> </tspan><tspan x="65.69" y="0" style="letter-spacing: -.09em;">Y</tspan><tspan x="75.18" y="0">ellow C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(670 296.05)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(670 273.94)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">92</tspan></text>
+      <text transform="translate(670 251.83)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">14</tspan></text>
+      <text transform="translate(670 229.72)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">1</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(670 195.91)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">16</tspan></text>
+      <text transform="translate(670 175.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">215</tspan></text>
+      <text transform="translate(670 154.74)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">255</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(510 1047.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#</tspan><tspan x="9.17" y="0" style="letter-spacing: -.02em;">fffff</tspan><tspan x="30.61" y="0">f</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(510 841.92)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone Bright White C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(510 1012.77)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(510 990.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(510 968.52)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(510 946.65)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(510 912.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">255</tspan></text>
+      <text transform="translate(510 892.02)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">255</tspan></text>
+      <text transform="translate(510 871.48)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">255</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(990 1047.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#</tspan><tspan x="9.17" y="0" style="letter-spacing: -.02em;">f</tspan><tspan x="13.46" y="0">fd710</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(990 841.92)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone Cool Grey 1 C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(990 1012.77)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">5</tspan></text>
+      <text transform="translate(990 990.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(990 968.52)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(990 946.65)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(990 912.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">236</tspan></text>
+      <text transform="translate(990 892.02)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">236</tspan></text>
+      <text transform="translate(990 871.48)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">236</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(1470 1047.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#f7f7f3</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(1470 841.92)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone </tspan><tspan x="65.99" y="0" style="letter-spacing: -.04em;">W</tspan><tspan x="80.94" y="0">arm Grey 1 C 50%</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(1470 1012.77)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">5</tspan></text>
+      <text transform="translate(1470 990.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">2</tspan></text>
+      <text transform="translate(1470 968.52)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">2</tspan></text>
+      <text transform="translate(1470 946.65)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">2</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(1470 912.81)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">243</tspan></text>
+      <text transform="translate(1470 892.02)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">247</tspan></text>
+      <text transform="translate(1470 871.48)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">247</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(990 330.98)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#fdea9b</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(990 125.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone 600C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(990 296.05)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(990 273.94)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">49</tspan></text>
+      <text transform="translate(990 251.83)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">6</tspan></text>
+      <text transform="translate(990 229.72)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">2</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(990 195.91)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">155</tspan></text>
+      <text transform="translate(990 175.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">234</tspan></text>
+      <text transform="translate(990 154.74)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">253</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(1310 330.98)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#20</tspan><tspan x="27.5" y="0" style="letter-spacing: -.02em;">f</tspan><tspan x="31.79" y="0">fd8</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(1310 125.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone 3265 C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(1310 296.05)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(1310 273.94)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">33</tspan></text>
+      <text transform="translate(1310 251.83)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(1310 229.72)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">58</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(1310 195.91)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">216</tspan></text>
+      <text transform="translate(1310 175.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">255</tspan></text>
+      <text transform="translate(1310 154.74)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">32</tspan></text>
+    </g>
+    <text class="Hex" data-name="Hex" transform="translate(1630 330.98)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">#bbfceb</tspan></text>
+    <text class="Pantone" data-name="Pantone" transform="translate(1630 125.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">Pantone 331 C</tspan></text>
+    <g class="CMYK" data-name="CMYK">
+      <text transform="translate(1630 296.05)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">K</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(1630 273.94)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0" style="letter-spacing: -.02em;">Y</tspan><tspan x="10.7" y="0" style="letter-spacing: 1.07em;">	</tspan><tspan x="32.96" y="0">17</tspan></text>
+      <text transform="translate(1630 251.83)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">M</tspan><tspan x="13.73" y="0" style="letter-spacing: .89em;">	</tspan><tspan x="32.96" y="0">0</tspan></text>
+      <text transform="translate(1630 229.72)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">C</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">29</tspan></text>
+    </g>
+    <g class="RGB" data-name="RGB">
+      <text transform="translate(1630 195.91)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">B</tspan><tspan x="10.99" y="0" style="letter-spacing: 1.06em;">	</tspan><tspan x="32.96" y="0">16</tspan></text>
+      <text transform="translate(1630 175.33)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">G</tspan><tspan x="12.82" y="0" style="letter-spacing: .94em;">	</tspan><tspan x="32.96" y="0">252</tspan></text>
+      <text transform="translate(1630 154.74)" style="font-family: Helvetica, Helvetica; font-size: 16.48px;"><tspan x="0" y="0">R</tspan><tspan x="11.9" y="0" style="letter-spacing: 1em;">	</tspan><tspan x="32.96" y="0">187</tspan></text>
+    </g>
+  </g>
+</svg>

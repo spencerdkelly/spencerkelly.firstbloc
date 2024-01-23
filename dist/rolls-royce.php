@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
+  <?php
+    $title = 'Rolls Royce';
+  ?>
   
   <?php include 'templates/_partials/header.php'; ?>
 

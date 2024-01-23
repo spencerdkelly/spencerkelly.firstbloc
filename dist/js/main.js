@@ -157,8 +157,10 @@ if (slides.length > 0) {
     currentSlide = (currentSlide + 1) % slides.length;
     slides[currentSlide].classList.add('active', 'animate');
 
+    console.log(currentSlide)
+
     // Set color of overlay text
-    if(currentSlide == 1 || currentSlide == 2) {
+    if(currentSlide == 3 || currentSlide == 5 ||currentSlide == 6) {
       body.classList.add('light-header');
     } else {
       body.classList.remove('light-header');
