@@ -25,8 +25,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/beijing-badass/bb-ipad-screen.webm" type="video/webm">
-                    <source src="images/case-studies/beijing-badass/bb-ipad-screen.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/beijing-badass/bb-ipad-screen.webm" type="video/webm">
+                    <source src="dist/images/case-studies/beijing-badass/bb-ipad-screen.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -47,7 +47,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="images/case-studies/beijing-badass/speech-recog-diagram.svg" class="full" alt="" />
+                <img src="dist/images/case-studies/beijing-badass/speech-recog-diagram.svg" class="full" alt="" />
             </div>
           </div>
 
@@ -66,10 +66,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-                <img src="images/case-studies/beijing-badass/bb-filming1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/beijing-badass/bb-filming1.avif" class="full" alt="" />
             </div>
             <div class="col">
-                <img src="images/case-studies/beijing-badass/bb-filming2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/beijing-badass/bb-filming2.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -93,37 +93,37 @@
                   <div class="item-slider-mover">
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-ni.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-ni.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-hao.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-hao.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-xie.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-xie.svg" alt="" />
                       </div>
                     </div>
                      <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-pee.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-pee.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-jo.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-jo.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-ching.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-ching.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/beijing-badass/dingbat-dow.svg" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/beijing-badass/dingbat-dow.svg" alt="" />
                       </div>
                     </div>
                   </div>

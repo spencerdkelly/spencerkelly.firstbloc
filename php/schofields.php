@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="images/case-studies/schofields/sf-menu-cover.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/schofields/sf-menu-cover.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -42,10 +42,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-                <img src="images/case-studies/schofields/sf-menu-cocktails.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/schofields/sf-menu-cocktails.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/schofields/sf-menu-type.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/schofields/sf-menu-type.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -64,7 +64,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="images/case-studies/schofields/sf-cocktail-bottles-photo.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/schofields/sf-cocktail-bottles-photo.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -83,10 +83,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-                <img src="images/case-studies/schofields/sf-business-cards.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/schofields/sf-business-cards.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/schofields/sf-coaster.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/schofields/sf-coaster.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -106,15 +106,15 @@
 
            <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/schofields/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/schofields/social-post-blank.svg" class="full social" alt="" />
                 <div class="static-social">
-                  <img src="images/case-studies/schofields/sf-social-oyster-club.avif" class="full social" alt="" />
+                  <img src="dist/images/case-studies/schofields/sf-social-oyster-club.avif" class="full social" alt="" />
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/schofields/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/schofields/social-post-blank.svg" class="full social" alt="" />
                 <div class="static-social">
-                  <img src="images/case-studies/schofields/sf-social-bottle.avif" class="full social" alt="" />
+                  <img src="dist/images/case-studies/schofields/sf-social-bottle.avif" class="full social" alt="" />
                 </div>
               </div>
           </div>

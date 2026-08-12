@@ -27,22 +27,22 @@
                   <div class="item-slider-mover">
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/wcc/wcc-coffee-bag-tamarin.avif" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/wcc/wcc-coffee-bag-tamarin.avif" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/wcc/wcc-coffee-bag-javan.avif" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/wcc/wcc-coffee-bag-javan.avif" alt="" />
                       </div>
                     </div>
                      <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/wcc/wcc-coffee-bag-ara.avif" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/wcc/wcc-coffee-bag-ara.avif" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/wcc/wcc-coffee-bag-nyala.avif" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/wcc/wcc-coffee-bag-nyala.avif" alt="" />
                       </div>
                     </div>
                   </div>
@@ -68,8 +68,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/wcc/wcc-logo.webm" type="video/webm">
-                    <source src="images/case-studies/wcc/wcc-logo.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/wcc/wcc-logo.webm" type="video/webm">
+                    <source src="dist/images/case-studies/wcc/wcc-logo.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -91,10 +91,10 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/wcc/wcc-logo-inspiration.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/wcc/wcc-logo-inspiration.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/wcc/wcc-logo-icons.svg" class="full" alt="" />
+                <img src="dist/images/case-studies/wcc/wcc-logo-icons.svg" class="full" alt="" />
               </div>
           </div>
 
@@ -113,7 +113,7 @@
 
          <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/wcc/wcc-tote-bag.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/wcc/wcc-tote-bag.avif" class="full" alt="" />
               </div>
               <div class="col">
                 
@@ -135,10 +135,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-              <img src="images/case-studies/wcc/wcc-website-home.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/wcc/wcc-website-home.avif" class="full" alt="" />
             </div>
             <div class="col">
-              <img src="images/case-studies/wcc/wcc-website-coffee.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/wcc/wcc-website-coffee.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -158,18 +158,18 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/wcc/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/wcc/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/wcc/wcc-social.webm" type="video/webm">
-                      <source src="images/case-studies/wcc/wcc-social.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/wcc/wcc-social.webm" type="video/webm">
+                      <source src="dist/images/case-studies/wcc/wcc-social.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/wcc/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/wcc/social-post-blank.svg" class="full social" alt="" />
                 <div class="static-social">
-                  <img src="images/case-studies/wcc/wcc-social-static.avif" class="full social" alt="" />
+                  <img src="dist/images/case-studies/wcc/wcc-social-static.avif" class="full social" alt="" />
                 </div>
               </div>
           </div>

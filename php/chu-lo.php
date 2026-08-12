@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="images/case-studies/chu-lo/cl-thumb.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/chu-lo/cl-thumb.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -43,20 +43,20 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-apple-flavour.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-apple-flavour.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-apple-flavour.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-apple-flavour.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-lemon-flavour.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-lemon-flavour.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-lemon-flavour.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-lemon-flavour.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -77,20 +77,20 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-darumasan.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-darumasan.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-darumasan.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-darumasan.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-eddie-honda.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-eddie-honda.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-eddie-honda.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-eddie-honda.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -98,20 +98,20 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-reels-lemon.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-reels-lemon.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-reels-lemon.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-reels-lemon.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-lucky-cat.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-lucky-cat.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-lucky-cat.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-lucky-cat.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -133,20 +133,20 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-versus.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-versus.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-versus.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-versus.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/chu-lo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/chu-lo/cl-sour-up.webm" type="video/webm">
-                      <source src="images/case-studies/chu-lo/cl-sour-up.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/chu-lo/cl-sour-up.webm" type="video/webm">
+                      <source src="dist/images/case-studies/chu-lo/cl-sour-up.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>

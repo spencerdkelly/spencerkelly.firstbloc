@@ -27,22 +27,22 @@
                   <div class="item-slider-mover">
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/whitley-neill/wn-poster-parma-violet.avif" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/whitley-neill/wn-poster-parma-violet.avif" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/whitley-neill/wn-poster-original.avif" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/whitley-neill/wn-poster-original.avif" alt="" />
                       </div>
                     </div>
                      <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/whitley-neill/wn-poster-lemongrass-and-ginger.avif" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/whitley-neill/wn-poster-lemongrass-and-ginger.avif" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="shrink" src="images/case-studies/whitley-neill/wn-poster-quince.avif" alt="" />
+                        <img class="shrink" src="dist/images/case-studies/whitley-neill/wn-poster-quince.avif" alt="" />
                       </div>
                     </div>
                   </div>
@@ -66,7 +66,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/whitley-neill/wn-euston-station-range.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/whitley-neill/wn-euston-station-range.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -86,16 +86,16 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/whitley-neill/wn-taxi-wrap1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/whitley-neill/wn-taxi-wrap1.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/whitley-neill/wn-taxi-wrap2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/whitley-neill/wn-taxi-wrap2.avif" class="full" alt="" />
               </div>
           </div>
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/whitley-neill/wn-station-wrap.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/whitley-neill/wn-station-wrap.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -104,13 +104,13 @@
             
               </div>
               <div class="col">
-                <img src="images/case-studies/whitley-neill/wn-bus-shelter-ad.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/whitley-neill/wn-bus-shelter-ad.avif" class="full" alt="" />
               </div>
           </div>
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/whitley-neill/wn-billboard.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/whitley-neill/wn-billboard.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -129,10 +129,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-              <img src="images/case-studies/whitley-neill/wn-website-home.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/whitley-neill/wn-website-home.avif" class="full" alt="" />
             </div>
             <div class="col">
-              <img src="images/case-studies/whitley-neill/wn-website-drinks.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/whitley-neill/wn-website-drinks.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -151,20 +151,20 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/whitley-neill/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/whitley-neill/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/whitley-neill/wn-gooseberry.webm" type="video/webm">
-                      <source src="images/case-studies/whitley-neill/wn-gooseberry.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/whitley-neill/wn-gooseberry.webm" type="video/webm">
+                      <source src="dist/images/case-studies/whitley-neill/wn-gooseberry.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/whitley-neill/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/whitley-neill/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/whitley-neill/wn-social-slideshow.webm" type="video/webm">
-                      <source src="images/case-studies/whitley-neill/wn-social-slideshow.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/whitley-neill/wn-social-slideshow.webm" type="video/webm">
+                      <source src="dist/images/case-studies/whitley-neill/wn-social-slideshow.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>

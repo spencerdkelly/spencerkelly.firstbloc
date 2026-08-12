@@ -27,27 +27,27 @@
                   <div class="item-slider-mover">
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/sportvatar/sportvatar-ski.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/sportvatar/sportvatar-ski.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/sportvatar/sportvatar-packers.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/sportvatar/sportvatar-packers.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/sportvatar/sportvatar-bulls.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/sportvatar/sportvatar-bulls.svg" alt="" />
                       </div>
                     </div>
                      <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/sportvatar/sportvatar-haaland.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/sportvatar/sportvatar-haaland.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/sportvatar/sportvatar-robot.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/sportvatar/sportvatar-robot.svg" alt="" />
                       </div>
                     </div>
                   </div>
@@ -71,10 +71,10 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/sportvatar/sportvatar-logo.webp" class="full" alt="" />
+                <img src="dist/images/case-studies/sportvatar/sportvatar-logo.webp" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/sportvatar/iphone-app-icon.webp" class="full" alt="" />
+                <img src="dist/images/case-studies/sportvatar/iphone-app-icon.webp" class="full" alt="" />
               </div>
           </div>
 
@@ -93,7 +93,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/sportvatar/sportvatar-brand-deck.webp" class="full" alt="" />
+              <img src="dist/images/case-studies/sportvatar/sportvatar-brand-deck.webp" class="full" alt="" />
             </div>
           </div>
 
@@ -101,8 +101,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/sportvatar/sportvatar-website-demo.webm" type="video/webm">
-                    <source src="images/case-studies/sportvatar/sportvatar-website-demo.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/sportvatar/sportvatar-website-demo.webm" type="video/webm">
+                    <source src="dist/images/case-studies/sportvatar/sportvatar-website-demo.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -117,16 +117,16 @@
                 </blockquote>
               </div>
               <div class="col">
-                <img src="images/case-studies/sportvatar/iphone-sportvatar-builder.webp" class="full" alt="" />
+                <img src="dist/images/case-studies/sportvatar/iphone-sportvatar-builder.webp" class="full" alt="" />
               </div>
           </div>
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/sportvatar/social-post-world-cup.webp" class="full social" alt="" />
+                <img src="dist/images/case-studies/sportvatar/social-post-world-cup.webp" class="full social" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/sportvatar/social-post-octopus.webp" class="full social" alt="" />
+                <img src="dist/images/case-studies/sportvatar/social-post-octopus.webp" class="full social" alt="" />
               </div>
           </div>
 
@@ -145,7 +145,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/sportvatar/sportvatar-combinations.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/sportvatar/sportvatar-combinations.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -164,26 +164,26 @@
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/sportvatar/newspaper-ad-marca.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/sportvatar/newspaper-ad-marca.avif" class="full" alt="" />
             </div>
           </div>
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/sportvatar/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/sportvatar/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/sportvatar/sportvatar-marketing-airdrops.webm" type="video/webm">
-                      <source src="images/case-studies/sportvatar/sportvatar-marketing-airdrops.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/sportvatar/sportvatar-marketing-airdrops.webm" type="video/webm">
+                      <source src="dist/images/case-studies/sportvatar/sportvatar-marketing-airdrops.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/sportvatar/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/sportvatar/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/sportvatar/sportvatar-marketing-character.webm" type="video/webm">
-                      <source src="images/case-studies/sportvatar/sportvatar-marketing-character.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/sportvatar/sportvatar-marketing-character.webm" type="video/webm">
+                      <source src="dist/images/case-studies/sportvatar/sportvatar-marketing-character.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>

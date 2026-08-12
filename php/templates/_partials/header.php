@@ -14,9 +14,9 @@
     <meta name="description" content="Spencer Kelly's work portfolio" />
     <meta name="robots" content="noindex, nofollow" />
     <meta http-equiv="Cache-control" content="public">
-    <link rel="stylesheet" type="text/css" href="/dist/css/main.min.css" />
-    <script defer src="/dist/js/main.min.js"></script>
-    <link rel="icon" href="/dist/images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="dist/css/main.min.css" />
+    <script defer src="dist/js/main.min.js"></script>
+    <link rel="icon" href="dist/images/favicon.png">
 
     <!-- Hotjar Tracking Code for https://spencerkelly.firstbloc.com -->
     <script>
@@ -31,7 +31,7 @@
     </script>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP1MWDPR28"></script>
+    <script async src="dist/https://www.googletagmanager.com/gtag/js?id=G-FP1MWDPR28"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -51,7 +51,7 @@
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2Z7S79Z"
+    <noscript><iframe src="dist/https://www.googletagmanager.com/ns.html?id=GTM-K2Z7S79Z"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 

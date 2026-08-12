@@ -22,7 +22,7 @@
         <div class="work-layout">  
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/profile-photo.avif" class="full" alt="" />
+                <img src="dist/images/profile-photo.avif" class="full" alt="" />
               </div>
               <div class="col">
                 <blockquote class="blockquote">

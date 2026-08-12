@@ -24,7 +24,7 @@
           <div class="work-row col-1">
             <div class="col">
               <div class="video-container">
-                <img src="images/case-studies/flovatar/flovatar-hero-scene.svg" class="full" alt="" />
+                <img src="dist/images/case-studies/flovatar/flovatar-hero-scene.svg" class="full" alt="" />
               </div>
             </div>
           </div>
@@ -46,8 +46,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/flovatar/ipad-flovatar-builder.webm" type="video/webm">
-                    <source src="images/case-studies/flovatar/ipad-flovatar-builder.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/flovatar/ipad-flovatar-builder.webm" type="video/webm">
+                    <source src="dist/images/case-studies/flovatar/ipad-flovatar-builder.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -73,22 +73,22 @@
                   <div class="item-slider-mover">
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/flovatar/racing-helmet-red.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/flovatar/racing-helmet-red.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/flovatar/sledge-hammer.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/flovatar/sledge-hammer.svg" alt="" />
                       </div>
                     </div>
                     <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/flovatar/hover-board.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/flovatar/hover-board.svg" alt="" />
                       </div>
                     </div>
                      <div class="slide-item">
                       <div class="item-wrapper">
-                        <img class="enlarge" src="images/case-studies/flovatar/bong.svg" alt="" />
+                        <img class="enlarge" src="dist/images/case-studies/flovatar/bong.svg" alt="" />
                       </div>
                     </div>
                   </div>
@@ -114,16 +114,16 @@
               <div class="col">
                  <div class="video-container">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/flovatar/flovatar-logo-lockup.webm" type="video/webm">
-                      <source src="images/case-studies/flovatar/flovatar-logo-lockup.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/flovatar/flovatar-logo-lockup.webm" type="video/webm">
+                      <source src="dist/images/case-studies/flovatar/flovatar-logo-lockup.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
                 <div class="video-container">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/flovatar/flovatar-logo-colours.webm" type="video/webm">
-                      <source src="images/case-studies/flovatar/flovatar-logo-colours.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/flovatar/flovatar-logo-colours.webm" type="video/webm">
+                      <source src="dist/images/case-studies/flovatar/flovatar-logo-colours.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -144,10 +144,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/flovatar/flovatar-story1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/flovatar/flovatar-story1.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/flovatar/flovatar-story2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/flovatar/flovatar-story2.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -166,13 +166,13 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/flovatar/iphone-apple-podcasts.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/flovatar/iphone-apple-podcasts.avif" class="full" alt="" />
               </div>
               <div class="col">
                 <div class="video-container">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/flovatar/iphone-flovatar-spotify.webm" type="video/webm">
-                      <source src="images/case-studies/flovatar/iphone-flovatar-spotify.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/flovatar/iphone-flovatar-spotify.webm" type="video/webm">
+                      <source src="dist/images/case-studies/flovatar/iphone-flovatar-spotify.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
@@ -195,8 +195,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/flovatar/ipad-flovatar-marketplace.webm" type="video/webm">
-                    <source src="images/case-studies/flovatar/ipad-flovatar-marketplace.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/flovatar/ipad-flovatar-marketplace.webm" type="video/webm">
+                    <source src="dist/images/case-studies/flovatar/ipad-flovatar-marketplace.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -220,16 +220,16 @@
               <div class="col">
                 <div class="video-container">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/flovatar/iphone-app-flovagram.webm" type="video/webm">
-                      <source src="images/case-studies/flovatar/iphone-app-flovagram.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/flovatar/iphone-app-flovagram.webm" type="video/webm">
+                      <source src="dist/images/case-studies/flovatar/iphone-app-flovagram.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
                 <div class="video-container">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/flovatar/iphone-app-ar.webm" type="video/webm">
-                      <source src="images/case-studies/flovatar/iphone-app-ar.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/flovatar/iphone-app-ar.webm" type="video/webm">
+                      <source src="dist/images/case-studies/flovatar/iphone-app-ar.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>

@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="images/case-studies/rijo/rj-hero-creative.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-hero-creative.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -42,13 +42,13 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/rijo/rj-logo-grid.svg" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-logo-grid.svg" class="full" alt="" />
             </div>
             <div class="col">
                <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/rijo/rj-logo-update.webm" type="video/webm">
-                    <source src="images/case-studies/rijo/rj-logo-update.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/rijo/rj-logo-update.webm" type="video/webm">
+                    <source src="dist/images/case-studies/rijo/rj-logo-update.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -71,13 +71,13 @@
             <div class="col">
                <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/rijo/rj-shipibo.webm" type="video/webm">
-                    <source src="images/case-studies/rijo/rj-shipibo.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/rijo/rj-shipibo.webm" type="video/webm">
+                    <source src="dist/images/case-studies/rijo/rj-shipibo.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
             <div class="col">
-               <img src="images/case-studies/rijo/rj-coffee-bags.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-coffee-bags.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -96,13 +96,13 @@
 
            <div class="work-row col-3">
             <div class="col">
-               <img src="images/case-studies/rijo/rj-shaman1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-shaman1.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/rijo/rj-shaman2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-shaman2.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/rijo/rj-shaman3.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-shaman3.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -121,10 +121,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/rijo/rj-real-spirit.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-real-spirit.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/rijo/rj-business-cards.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/rijo/rj-business-cards.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -145,8 +145,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/rijo/rj-website.webm" type="video/webm">
-                    <source src="images/case-studies/rijo/rj-website.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/rijo/rj-website.webm" type="video/webm">
+                    <source src="dist/images/case-studies/rijo/rj-website.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -169,8 +169,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/rijo/rj-figma.webm" type="video/webm">
-                    <source src="images/case-studies/rijo/rj-figma.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/rijo/rj-figma.webm" type="video/webm">
+                    <source src="dist/images/case-studies/rijo/rj-figma.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -191,61 +191,61 @@
 
           <div class="work-row col-4">
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-logo1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-logo1.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-logo2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-logo2.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-logo3.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-logo3.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-logo4.avif" class="full" alt="" />
-              </div>
-          </div>
-
-          <div class="work-row col-4">
-              <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-bag1.avif" class="full" alt="" />
-              </div>
-              <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-bag2.avif" class="full" alt="" />
-              </div>
-              <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-coffee1.avif" class="full" alt="" />
-              </div>
-              <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-coffee2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-logo4.avif" class="full" alt="" />
               </div>
           </div>
 
           <div class="work-row col-4">
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-beans1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-bag1.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-beans2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-bag2.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-cookie1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-coffee1.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-cookie2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-coffee2.avif" class="full" alt="" />
               </div>
           </div>
 
           <div class="work-row col-4">
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-tribal1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-beans1.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-tribal2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-beans2.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-clover1.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-cookie1.avif" class="full" alt="" />
               </div>
               <div class="col rounded grey">
-                <img src="images/case-studies/rijo/rj-design-system-asset-clover2.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-cookie2.avif" class="full" alt="" />
+              </div>
+          </div>
+
+          <div class="work-row col-4">
+              <div class="col rounded grey">
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-tribal1.avif" class="full" alt="" />
+              </div>
+              <div class="col rounded grey">
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-tribal2.avif" class="full" alt="" />
+              </div>
+              <div class="col rounded grey">
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-clover1.avif" class="full" alt="" />
+              </div>
+              <div class="col rounded grey">
+                <img src="dist/images/case-studies/rijo/rj-design-system-asset-clover2.avif" class="full" alt="" />
               </div>
           </div>
 
@@ -264,20 +264,20 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/rijo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/rijo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/rijo/rj-social-post-cookie.webm" type="video/webm">
-                      <source src="images/case-studies/rijo/rj-social-post-cookie.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/rijo/rj-social-post-cookie.webm" type="video/webm">
+                      <source src="dist/images/case-studies/rijo/rj-social-post-cookie.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/rijo/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/rijo/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/rijo/rj-social-post-irish-coffee.webm" type="video/webm">
-                      <source src="images/case-studies/rijo/rj-machines-irish-coffee.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/rijo/rj-social-post-irish-coffee.webm" type="video/webm">
+                      <source src="dist/images/case-studies/rijo/rj-machines-irish-coffee.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>

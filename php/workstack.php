@@ -23,7 +23,7 @@
 
         	<div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/workstack/ws-hero.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/workstack/ws-hero.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -45,8 +45,8 @@
 	              <div class="video-container">
 	              	<div class="video-inner padded workstack-grey">
 		                <video disablepictureinpicture playsinline autoplay muted loop class="background-video" id="video1">
-		                    <source src="images/case-studies/workstack/ws-intro.webm" type="video/webm">
-		                    <source src="images/case-studies/workstack/ws-intro.mp4" type="video/mp4">
+		                    <source src="dist/images/case-studies/workstack/ws-intro.webm" type="video/webm">
+		                    <source src="dist/images/case-studies/workstack/ws-intro.mp4" type="video/mp4">
 		                </video>
 		            </div>
 	                <div class="video-controls darker">
@@ -88,64 +88,64 @@
 		    
 			    <div class="grid-items dot-grid">
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-time.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-time.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-split.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-split.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-save.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-save.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-pin.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-pin.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-stopwatch.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-stopwatch.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-menu.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-menu.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-edit.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-edit.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-hold.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-hold.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-tick.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-tick.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-sort.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-sort.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-search.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-search.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-close.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-close.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-resize.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-resize.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-projects.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-projects.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-list.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-list.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-print.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-print.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-people.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-people.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-info.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-info.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-meetings.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-meetings.svg" alt="" />
 			        </div>
 			        <div class="item">
-			        	<img src="images/case-studies/workstack/icon-holiday.svg" alt="" />
+			        	<img src="dist/images/case-studies/workstack/icon-holiday.svg" alt="" />
 			        </div>
 			    </div>
 		 
@@ -170,8 +170,8 @@
 	              <div class="video-container">
 	              	<div class="video-inner">
 		                <video disablepictureinpicture playsinline muted loop class="background-video" id="video2">
-		                    <source src="images/case-studies/workstack/ws-macbook-pro.webm" type="video/webm">
-		                    <source src="images/case-studies/workstack/ws-macbook-pro.mp4" type="video/mp4">
+		                    <source src="dist/images/case-studies/workstack/ws-macbook-pro.webm" type="video/webm">
+		                    <source src="dist/images/case-studies/workstack/ws-macbook-pro.mp4" type="video/mp4">
 		                </video>
 		            </div>
 	                <div class="video-controls darker">
@@ -211,10 +211,10 @@
 
           <div class="work-row col-2">
 		    	<div class="col">
-		 			<img src="images/case-studies/workstack/ws-heatmaps.avif" class="full" alt="" />
+		 			<img src="dist/images/case-studies/workstack/ws-heatmaps.avif" class="full" alt="" />
 		    	</div>
 			    <div class="col">
-			      	<img src="images/case-studies/workstack/ws-intercom.avif" class="full" alt="" />
+			      	<img src="dist/images/case-studies/workstack/ws-intercom.avif" class="full" alt="" />
 			    </div>
 		  	</div>
           

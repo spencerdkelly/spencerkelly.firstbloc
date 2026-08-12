@@ -26,8 +26,8 @@
 	              <div class="video-container">
 	              	<div class="video-inner padded fentimans-black">
 		                <video disablepictureinpicture playsinline autoplay muted loop class="background-video" id="video1">
-		                    <source src="images/case-studies/fentimans/fm-crafted-for-mixing.webm" type="video/webm">
-		                    <source src="images/case-studies/fentimans/fm-crafted-for-mixing.mp4" type="video/mp4">
+		                    <source src="dist/images/case-studies/fentimans/fm-crafted-for-mixing.webm" type="video/webm">
+		                    <source src="dist/images/case-studies/fentimans/fm-crafted-for-mixing.mp4" type="video/mp4">
 		                </video>
 		            </div>
 	                <div class="video-controls darker">
@@ -67,44 +67,44 @@
 
 		  	<div class="work-row col-4">
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch1.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch1.avif" class="full" alt="" />
 	            </div>
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch2.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch2.avif" class="full" alt="" />
 	            </div>
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch3.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch3.avif" class="full" alt="" />
 	            </div>
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch4.avif" class="full" alt="" />
-	            </div>
-          	</div>
-          	<div class="work-row col-4">
-	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch5.avif" class="full" alt="" />
-	            </div>
-	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch6.avif" class="full" alt="" />
-	            </div>
-	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch7.avif" class="full" alt="" />
-	            </div>
-	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch8.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch4.avif" class="full" alt="" />
 	            </div>
           	</div>
           	<div class="work-row col-4">
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch9.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch5.avif" class="full" alt="" />
 	            </div>
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch10.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch6.avif" class="full" alt="" />
 	            </div>
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch11.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch7.avif" class="full" alt="" />
 	            </div>
 	            <div class="col">
-	               <img src="images/case-studies/fentimans/fm-sketch12.avif" class="full" alt="" />
+	               <img src="dist/images/case-studies/fentimans/fm-sketch8.avif" class="full" alt="" />
+	            </div>
+          	</div>
+          	<div class="work-row col-4">
+	            <div class="col">
+	               <img src="dist/images/case-studies/fentimans/fm-sketch9.avif" class="full" alt="" />
+	            </div>
+	            <div class="col">
+	               <img src="dist/images/case-studies/fentimans/fm-sketch10.avif" class="full" alt="" />
+	            </div>
+	            <div class="col">
+	               <img src="dist/images/case-studies/fentimans/fm-sketch11.avif" class="full" alt="" />
+	            </div>
+	            <div class="col">
+	               <img src="dist/images/case-studies/fentimans/fm-sketch12.avif" class="full" alt="" />
 	            </div>
           	</div>
 
@@ -127,8 +127,8 @@
 	              <div class="video-container">
 	              	<div class="video-inner padded fentimans-black">
 		                <video disablepictureinpicture playsinline muted loop class="background-video" id="video2" poster="images/case-studies/fentimans/fm-drink-poster.avif">
-		                    <source src="images/case-studies/fentimans/fm-joe-bouquet-drink.webm" type="video/webm">
-		                    <source src="images/case-studies/fentimans/fm-joe-bouquet-drink.mp4" type="video/mp4">
+		                    <source src="dist/images/case-studies/fentimans/fm-joe-bouquet-drink.webm" type="video/webm">
+		                    <source src="dist/images/case-studies/fentimans/fm-joe-bouquet-drink.mp4" type="video/mp4">
 		                </video>
 		            </div>
 	                <div class="video-controls darker">
@@ -170,15 +170,15 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/fentimans/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/fentimans/social-post-blank.svg" class="full social" alt="" />
                 <div class="static-social">
-                  <img src="images/case-studies/fentimans/fm-social-static1.avif" class="full social" alt="" />
+                  <img src="dist/images/case-studies/fentimans/fm-social-static1.avif" class="full social" alt="" />
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/fentimans/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/fentimans/social-post-blank.svg" class="full social" alt="" />
                 <div class="static-social">
-                  <img src="images/case-studies/fentimans/fm-social-static2.avif" class="full social" alt="" />
+                  <img src="dist/images/case-studies/fentimans/fm-social-static2.avif" class="full social" alt="" />
                 </div>
               </div>
           </div>

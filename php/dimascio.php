@@ -25,8 +25,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/dimascio/dm-ipad.webm" type="video/webm">
-                    <source src="images/case-studies/dimascio/dm-ipad.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/dimascio/dm-ipad.webm" type="video/webm">
+                    <source src="dist/images/case-studies/dimascio/dm-ipad.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -48,12 +48,12 @@
           <div class="work-row col-2">
             <div class="col">
                <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                  <source src="images/case-studies/dimascio/dm-iphone-shop-item.webm" type="video/webm">
-                  <source src="images/case-studies/dimascio/dm-iphone-shop-item.mp4" type="video/mp4">
+                  <source src="dist/images/case-studies/dimascio/dm-iphone-shop-item.webm" type="video/webm">
+                  <source src="dist/images/case-studies/dimascio/dm-iphone-shop-item.mp4" type="video/mp4">
                 </video>
             </div>
             <div class="col">
-               <img src="images/case-studies/dimascio/dm-iphone-shop.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/dimascio/dm-iphone-shop.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -72,13 +72,13 @@
 
           <div class="work-row col-3">
             <div class="col">
-               <img src="images/case-studies/dimascio/dm-jersey1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/dimascio/dm-jersey1.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/dimascio/dm-jersey2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/dimascio/dm-jersey2.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/dimascio/dm-jersey3.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/dimascio/dm-jersey3.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -97,7 +97,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-               <img src="images/case-studies/dimascio/dm-emails.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/dimascio/dm-emails.avif" class="full" alt="" />
             </div>
           </div>
 

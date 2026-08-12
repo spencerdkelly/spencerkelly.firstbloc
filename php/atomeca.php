@@ -23,7 +23,7 @@
 
           <div class="work-row col-1 atomeca-mandarin">
             <div class="col">
-                <img class="square-logo-lg" src="images/case-studies/atomeca/at-logo.svg" alt="" />
+                <img class="square-logo-lg" src="dist/images/case-studies/atomeca/at-logo.svg" alt="" />
             </div>
           </div>
 
@@ -44,8 +44,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/atomeca/brand-colour-blocks.webm" type="video/webm">
-                    <source src="images/case-studies/atomeca/brand-colour-blocks.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/atomeca/brand-colour-blocks.webm" type="video/webm">
+                    <source src="dist/images/case-studies/atomeca/brand-colour-blocks.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -66,10 +66,10 @@
 
          <div class="work-row col-2">
             <div class="col">
-              <img src="images/case-studies/atomeca/at-business-cards.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/atomeca/at-business-cards.avif" class="full" alt="" />
             </div>
             <div class="col">
-              <img src="images/case-studies/atomeca/at-coaster.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/atomeca/at-coaster.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -88,28 +88,28 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/atomeca/at-building-sign-front.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/atomeca/at-building-sign-front.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/atomeca/at-building-sign-terrace.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/atomeca/at-building-sign-terrace.avif" class="full" alt="" />
               </div>
           </div>
 
           <div class="work-row col-3">
             <div class="col">
-               <img src="images/case-studies/atomeca/at-tiles.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-tiles.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/atomeca/at-espresso-cups.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-espresso-cups.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/atomeca/at-stools.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-stools.avif" class="full" alt="" />
             </div>
           </div>
 
           <div class="work-row col-1">
             <div class="col">
-               <img src="images/case-studies/atomeca/at-barmen.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-barmen.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -128,7 +128,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-               <img src="images/case-studies/atomeca/at-menus.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-menus.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -147,10 +147,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/atomeca/at-wine-label.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-wine-label.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/atomeca/at-beer-can.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/atomeca/at-beer-can.avif" class="full" alt="" />
             </div>
           </div>
 

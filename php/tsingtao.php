@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/tsingtao/ts-billboard-escalator.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/tsingtao/ts-billboard-escalator.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -42,13 +42,13 @@
 
           <div class="work-row col-3">
             <div class="col">
-               <img src="images/case-studies/tsingtao/ts-immortal-orig1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/tsingtao/ts-immortal-orig1.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/tsingtao/ts-art-direction1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/tsingtao/ts-art-direction1.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/tsingtao/ts-immortal-new1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/tsingtao/ts-immortal-new1.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -67,13 +67,13 @@
 
           <div class="work-row col-3">
             <div class="col">
-               <img src="images/case-studies/tsingtao/ts-immortal-orig2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/tsingtao/ts-immortal-orig2.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/tsingtao/ts-art-direction2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/tsingtao/ts-art-direction2.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/tsingtao/ts-immortal-new2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/tsingtao/ts-immortal-new2.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -92,7 +92,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/tsingtao/ts-portrait-billboards.avif" class="full" alt="" />
+              <img src="dist/images/case-studies/tsingtao/ts-portrait-billboards.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -103,8 +103,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/tsingtao/ts-bus-shelter-ad.webm" type="video/webm">
-                    <source src="images/case-studies/tsingtao/ts-bus-shelter-ad.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/tsingtao/ts-bus-shelter-ad.webm" type="video/webm">
+                    <source src="dist/images/case-studies/tsingtao/ts-bus-shelter-ad.mp4" type="video/mp4">
                 </video>
               </div>
             </div>

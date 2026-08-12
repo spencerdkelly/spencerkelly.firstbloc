@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-               <img src="images/case-studies/chivas-regal/cr-bottle-range.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/chivas-regal/cr-bottle-range.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -42,10 +42,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/chivas-regal/cr-bottle-close1.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/chivas-regal/cr-bottle-close1.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/chivas-regal/cr-bottle-close2.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/chivas-regal/cr-bottle-close2.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -64,13 +64,13 @@
 
           <div class="work-row col-3">
             <div class="col">
-               <img src="images/case-studies/chivas-regal/cr-bottle-ww.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/chivas-regal/cr-bottle-ww.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/chivas-regal/cr-bottle-mm.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/chivas-regal/cr-bottle-mm.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/chivas-regal/cr-bottle-as.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/chivas-regal/cr-bottle-as.avif" class="full" alt="" />
             </div>
           </div>
 

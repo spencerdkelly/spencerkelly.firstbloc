@@ -25,8 +25,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                    <source src="images/case-studies/aldi/aldi-ipad.webm" type="video/webm">
-                    <source src="images/case-studies/aldi/aldi-ipad.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/aldi/aldi-ipad.webm" type="video/webm">
+                    <source src="dist/images/case-studies/aldi/aldi-ipad.mp4" type="video/mp4">
                 </video>
               </div>
             </div>
@@ -47,10 +47,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-                <img src="images/case-studies/aldi/aldi-asset-library.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aldi/aldi-asset-library.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/aldi/aldi-awards.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/aldi/aldi-awards.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -69,10 +69,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-                <img src="images/case-studies/aldi/aldi-contacts.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aldi/aldi-contacts.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/aldi/aldi-news.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/aldi/aldi-news.avif" class="full" alt="" />
             </div>
           </div>
 

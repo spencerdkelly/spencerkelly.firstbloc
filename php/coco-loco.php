@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="images/case-studies/coco-loco/cl-hero.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/coco-loco/cl-hero.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -42,10 +42,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/coco-loco/cl-logo-animated.svg" class="full" alt="" />
+               <img src="dist/images/case-studies/coco-loco/cl-logo-animated.svg" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/coco-loco/cl-logo-icon.svg" class="full" alt="" />
+               <img src="dist/images/case-studies/coco-loco/cl-logo-icon.svg" class="full" alt="" />
             </div>
           </div>
 
@@ -64,7 +64,7 @@
 
            <div class="work-row col-1">
             <div class="col">
-              <img src="images/case-studies/coco-loco/cl-color-palette.svg" class="full" alt="" />
+              <img src="dist/images/case-studies/coco-loco/cl-color-palette.svg" class="full" alt="" />
             </div>
           </div>
 
@@ -85,10 +85,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/coco-loco/cl-logo-choc-emboss.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/coco-loco/cl-logo-choc-emboss.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/coco-loco/cl-logo-color-emboss.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/coco-loco/cl-logo-color-emboss.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -107,10 +107,10 @@
 
           <div class="work-row col-2">
             <div class="col">
-               <img src="images/case-studies/coco-loco/cl-cup.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/coco-loco/cl-cup.avif" class="full" alt="" />
             </div>
             <div class="col">
-               <img src="images/case-studies/coco-loco/cl-sign.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/coco-loco/cl-sign.avif" class="full" alt="" />
             </div>
           </div>
 

@@ -27,11 +27,11 @@
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
                    
-                    <source src="images/case-studies/aber-falls/waterfall.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/aber-falls/waterfall.mp4" type="video/mp4">
                 </video>
               </div>
               <div class="overlay-image">
-                <img class="square-logo" src="images/case-studies/aber-falls/af-logo.svg" alt="" />
+                <img class="square-logo" src="dist/images/case-studies/aber-falls/af-logo.svg" alt="" />
               </div>
             </div>
           </div>
@@ -51,10 +51,10 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-logo-grid.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-logo-grid.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-celtic-knot-grid.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-celtic-knot-grid.avif" class="full" alt="" />
               </div>
           </div>
 
@@ -73,13 +73,13 @@
 
           <div class="work-row col-3">
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-bottle-violet.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-bottle-violet.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-bottle-dry-gin.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-bottle-dry-gin.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-bottle-marmalade.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-bottle-marmalade.avif" class="full" alt="" />
               </div>
           </div>
 
@@ -99,10 +99,10 @@
 
           <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-t-shirt.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-t-shirt.avif" class="full" alt="" />
               </div>
               <div class="col">
-                <img src="images/case-studies/aber-falls/af-shop-bag.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/aber-falls/af-shop-bag.avif" class="full" alt="" />
               </div>
           </div>
 
@@ -123,18 +123,18 @@
 
            <div class="work-row col-2">
               <div class="col">
-                <img src="images/case-studies/aber-falls/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/aber-falls/social-post-blank.svg" class="full social" alt="" />
                 <div class="video-social">
                   <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                      <source src="images/case-studies/aber-falls/af-social.webm" type="video/webm">
-                      <source src="images/case-studies/aber-falls/af-social.mp4" type="video/mp4">
+                      <source src="dist/images/case-studies/aber-falls/af-social.webm" type="video/webm">
+                      <source src="dist/images/case-studies/aber-falls/af-social.mp4" type="video/mp4">
                   </video>
                 </div>
               </div>
               <div class="col">
-                <img src="images/case-studies/aber-falls/social-post-blank.svg" class="full social" alt="" />
+                <img src="dist/images/case-studies/aber-falls/social-post-blank.svg" class="full social" alt="" />
                 <div class="static-social">
-                  <img src="images/case-studies/aber-falls/af-social-team.jpg" class="full social" alt="" />
+                  <img src="dist/images/case-studies/aber-falls/af-social-team.jpg" class="full social" alt="" />
                 </div>
               </div>
           </div>

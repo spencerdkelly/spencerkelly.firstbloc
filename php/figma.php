@@ -23,7 +23,7 @@
 
           <div class="work-row col-1">
             <div class="col">
-                <img src="/dist/images/case-studies/figma/figma-hero.avif" class="full" alt="" />
+                <img src="dist/images/case-studies/figma/figma-hero.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -43,12 +43,12 @@
           <div class="work-row col-2">
             <div class="col">
                <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                  <source src="/dist/images/case-studies/figma/figma-iphone-demo.webm" type="video/webm">
-                  <source src="images/case-studies/figma/figma-iphone-demo.mp4" type="video/mp4">
+                  <source src="dist/images/case-studies/figma/figma-iphone-demo.webm" type="video/webm">
+                  <source src="dist/images/case-studies/figma/figma-iphone-demo.mp4" type="video/mp4">
                 </video>
             </div>
             <div class="col">
-               <img src="/dist/images/case-studies/figma/figma-logic.avif" class="full" alt="" />
+               <img src="dist/images/case-studies/figma/figma-logic.avif" class="full" alt="" />
             </div>
           </div>
 
@@ -69,8 +69,8 @@
             <div class="col">
               <div class="video-container">
                 <video disablepictureinpicture playsinline autoplay muted loop>
-                    <source src="/dist/images/case-studies/figma/figma-demo.webm" type="video/webm">
-                    <source src="/dist/images/case-studies/figma/figma-demo.mp4" type="video/mp4">
+                    <source src="dist/images/case-studies/figma/figma-demo.webm" type="video/webm">
+                    <source src="dist/images/case-studies/figma/figma-demo.mp4" type="video/mp4">
                 </video>
               </div>
             </div>

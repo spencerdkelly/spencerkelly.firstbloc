@@ -13,7 +13,7 @@
               
               <div class="slide slide-1 active">   
                   <div class="image-container">
-                    <img src="images/case-studies/workstack/ws-hero.avif" alt="" width="1920" height="1080" />
+                    <img src="dist/images/case-studies/workstack/ws-hero.avif" alt="" width="1920" height="1080" />
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -25,7 +25,7 @@
               </div>
               <div class="slide slide-2">   
                   <div class="image-container">
-                    <img src="images/case-studies/figma/figma-hero.avif" alt="" width="1920" height="1080" />
+                    <img src="dist/images/case-studies/figma/figma-hero.avif" alt="" width="1920" height="1080" />
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -37,7 +37,7 @@
               </div>
               <div class="slide slide-3">   
                   <div class="image-container">
-                    <img src="images/case-studies/coco-loco/cl-hero.avif" alt="" width="1920" height="1080" />
+                    <img src="dist/images/case-studies/coco-loco/cl-hero.avif" alt="" width="1920" height="1080" />
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -50,11 +50,11 @@
               <div class="slide slide-4">   
                   <div class="video-container">
                     <video disablepictureinpicture playsinline autoplay muted loop class="background-video">
-                        <source src="images/case-studies/aber-falls/waterfall.mp4" type="video/mp4">
+                        <source src="dist/images/case-studies/aber-falls/waterfall.mp4" type="video/mp4">
                     </video>
                   </div>
                   <div class="overlay-image">
-                    <img class="square-logo" src="images/case-studies/aber-falls/af-logo.svg" alt="" width="500" height="500">
+                    <img class="square-logo" src="dist/images/case-studies/aber-falls/af-logo.svg" alt="" width="500" height="500">
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -66,7 +66,7 @@
               </div>
               <div class="slide slide-5"> 
                   <div class="image-container">
-                    <img src="images/case-studies/sportvatar/sportvatar-feature.avif" alt="" width="1920" height="1080" />
+                    <img src="dist/images/case-studies/sportvatar/sportvatar-feature.avif" alt="" width="1920" height="1080" />
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -78,7 +78,7 @@
               </div>
               <div class="slide slide-6">  
                   <div class="image-container">
-                      <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" width="1960" height="1080">
+                      <img src="dist/images/case-studies/whitley-neill/wn-billboard.avif" alt="" width="1960" height="1080">
                   </div>
                   <div class="slide-overlay">
                     <div>
@@ -109,7 +109,7 @@
              <div class="thumb">
               <a href="figma" aria-label="Figma Components">
                 <div class="thumb-img">
-                  <img src="images/case-studies/figma/figma-hero.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/figma/figma-hero.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Figma Community</h3>
@@ -120,7 +120,7 @@
             <div class="thumb">
               <a href="flovatar" aria-label="Flovatar">
                 <div class="thumb-img">
-                  <img src="images/case-studies/flovatar/flovatar-story.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/flovatar/flovatar-story.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Flovatar</h3>
@@ -131,7 +131,7 @@
             <div class="thumb">
               <a href="whitley-neill-gin" aria-label="Whitley Neill Gin">
                 <div class="thumb-img">
-                  <img src="images/case-studies/whitley-neill/wn-billboard.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/whitley-neill/wn-billboard.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Whitley Neill Gin</h3>
@@ -142,7 +142,7 @@
             <div class="thumb">
               <a href="sportvatar" aria-label="Sportvatar">
                 <div class="thumb-img">
-                  <img src="images/case-studies/sportvatar/sportvatar-ipad.avif" alt=""  width="1080" height="720">
+                  <img src="dist/images/case-studies/sportvatar/sportvatar-ipad.avif" alt=""  width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Sportvatar</h3>
@@ -153,7 +153,7 @@
             <div class="thumb">
               <a href="wholesale-coffee-co" aria-label="Wholesale Coffee Co.">
                 <div class="thumb-img">
-                  <img src="images/case-studies/wcc/wcc-bag.avif" alt=""  width="1080" height="720">
+                  <img src="dist/images/case-studies/wcc/wcc-bag.avif" alt=""  width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Wholesale Coffee Co.</h3>
@@ -164,7 +164,7 @@
             <div class="thumb">
               <a href="aber-falls" aria-label="Aber Falls Distillery">
                 <div class="thumb-img">
-                  <img src="images/case-studies/aber-falls/af-logo.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/aber-falls/af-logo.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Aber Falls Distillery</h3>
@@ -175,7 +175,7 @@
             <div class="thumb">
               <a href="atomeca" aria-label="Atomeca">
                 <div class="thumb-img">
-                  <img src="images/case-studies/atomeca/at-logo-thumb.svg" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/atomeca/at-logo-thumb.svg" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Atomeca</h3>
@@ -186,7 +186,7 @@
             <div class="thumb">
               <a href="dimascio" aria-label="Di Mascio">
                 <div class="thumb-img">
-                  <img src="images/case-studies/dimascio/dm-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/dimascio/dm-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Di Mascio</h3>
@@ -197,7 +197,7 @@
             <div class="thumb">
               <a href="coco-loco" aria-label="Coco Loco">
                 <div class="thumb-img">
-                  <img src="images/case-studies/coco-loco/cl-hero.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/coco-loco/cl-hero.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Coco Loco</h3>
@@ -208,7 +208,7 @@
             <div class="thumb">
               <a href="rolls-royce" aria-label="Rolls Royce">
                 <div class="thumb-img">
-                  <img src="images/case-studies/rolls-royce/rr-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/rolls-royce/rr-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Rolls Royce</h3>
@@ -219,7 +219,7 @@
             <div class="thumb">
               <a href="schofields" aria-label="Schofields">
                 <div class="thumb-img">
-                  <img src="images/case-studies/schofields/sf-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/schofields/sf-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Schofield's Bar</h3>
@@ -230,7 +230,7 @@
             <div class="thumb">
               <a href="workstack" aria-label="Workstack">
                 <div class="thumb-img">
-                  <img src="images/case-studies/workstack/ws-hero.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/workstack/ws-hero.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Workstack</h3>
@@ -241,7 +241,7 @@
             <div class="thumb">
               <a href="aldi" aria-label="Aldi">
                 <div class="thumb-img">
-                  <img src="images/case-studies/aldi/aldi-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/aldi/aldi-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Aldi</h3>
@@ -252,7 +252,7 @@
             <div class="thumb">
               <a href="chu-lo" aria-label="Chu Lo">
                 <div class="thumb-img">
-                  <img src="images/case-studies/chu-lo/cl-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/chu-lo/cl-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Chu Lo Drinks</h3>
@@ -263,7 +263,7 @@
             <div class="thumb">
               <a href="rijo" aria-label="Rijo">
                 <div class="thumb-img">
-                  <img src="images/case-studies/rijo/rj-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/rijo/rj-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Rijo Coffee</h3>
@@ -274,7 +274,7 @@
             <div class="thumb">
               <a href="fentimans" aria-label="Fentimans">
                 <div class="thumb-img">
-                  <img src="images/case-studies/fentimans/fm-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/fentimans/fm-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Fentimans</h3>
@@ -285,7 +285,7 @@
             <div class="thumb">
               <a href="tsingtao" aria-label="Tsingtao Beer">
                 <div class="thumb-img">
-                  <img src="images/case-studies/tsingtao/ts-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/tsingtao/ts-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Tsingtao Beer</h3>
@@ -296,7 +296,7 @@
             <div class="thumb">
               <a href="beijing-badass" aria-label="Beijing Badass">
                 <div class="thumb-img">
-                  <img src="images/case-studies/beijing-badass/bb-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/beijing-badass/bb-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Tsingtao Beer</h3>
@@ -307,7 +307,7 @@
             <div class="thumb">
               <a href="chivas-regal" aria-label="Chivas Regal">
                 <div class="thumb-img">
-                  <img src="images/case-studies/chivas-regal/cr-thumb.avif" alt="" width="1080" height="720">
+                  <img src="dist/images/case-studies/chivas-regal/cr-thumb.avif" alt="" width="1080" height="720">
                 </div>
                 <div class="thumb-title">
                   <h3>Chivas Regal</h3>
