@@ -2,31 +2,23 @@ Options +FollowSymLinks
 RewriteEngine On
 
 ###############################################
-# Detect environment and set BASE folder
+# LOCALHOST (MAMP)
 ###############################################
-
-# Localhost → /spencerkelly.firstbloc
 RewriteCond %{HTTP_HOST} ^localhost [NC]
-RewriteRule ^ - [E=BASE:/spencerkelly.firstbloc]
-
-# Hostinger → /portfolio
-RewriteCond %{HTTP_HOST} ^spencerkelly\.firstbloc\.com$ [NC]
-RewriteRule ^ - [E=BASE:/portfolio]
-
-###############################################
-# Do NOT rewrite static assets
-###############################################
-RewriteCond %{REQUEST_URI} !^%{ENV:BASE}/dist/
-RewriteCond %{REQUEST_URI} !^%{ENV:BASE}/assets/
-RewriteCond %{REQUEST_URI} !^%{ENV:BASE}/images/
-
-###############################################
-# Only rewrite if file/folder does not exist
-###############################################
+RewriteCond %{REQUEST_URI} !^/spencerkelly.firstbloc/dist/
+RewriteCond %{REQUEST_URI} !^/spencerkelly.firstbloc/assets/
+RewriteCond %{REQUEST_URI} !^/spencerkelly.firstbloc/images/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)$ /spencerkelly.firstbloc/php/$1.php [QSA,L]
 
 ###############################################
-# Rewrite clean URLs into php folder
+# HOSTINGER (subdomain → /portfolio)
 ###############################################
-RewriteRule ^(.+)$ %{ENV:BASE}/php/$1.php [QSA,L]
+RewriteCond %{HTTP_HOST} ^spencerkelly\.firstbloc\.com$ [NC]
+RewriteCond %{REQUEST_URI} !^/portfolio/dist/
+RewriteCond %{REQUEST_URI} !^/portfolio/assets/
+RewriteCond %{REQUEST_URI} !^/portfolio/images/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)$ /portfolio/php/$1.php [QSA,L]
