@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<?php include 'templates/_partials/header.php'; ?>
+	<?php include 'php/templates/_partials/header.php'; ?>
 
       <div class="parallax__layer parallax__layer--back">
 
@@ -319,7 +319,7 @@
           
 
         
-          <?php include 'templates/_partials/footer.php'; ?>
+          <?php include 'php/templates/_partials/footer.php'; ?>
         
 
       </div>
