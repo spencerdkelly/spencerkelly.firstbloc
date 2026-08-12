@@ -1,24 +1,14 @@
 Options +FollowSymLinks
 RewriteEngine On
 
-###############################################
-# LOCALHOST (MAMP)
-###############################################
-RewriteCond %{HTTP_HOST} ^localhost [NC]
-RewriteCond %{REQUEST_URI} !^/spencerkelly.firstbloc/dist/
-RewriteCond %{REQUEST_URI} !^/spencerkelly.firstbloc/assets/
-RewriteCond %{REQUEST_URI} !^/spencerkelly.firstbloc/images/
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.+)$ /spencerkelly.firstbloc/php/$1.php [QSA,L]
+# Do NOT rewrite static assets
+RewriteCond %{REQUEST_URI} !^/dist/
+RewriteCond %{REQUEST_URI} !^/assets/
+RewriteCond %{REQUEST_URI} !^/images/
 
-###############################################
-# HOSTINGER (subdomain → /portfolio)
-###############################################
-RewriteCond %{HTTP_HOST} ^spencerkelly\.firstbloc\.com$ [NC]
-RewriteCond %{REQUEST_URI} !^/portfolio/dist/
-RewriteCond %{REQUEST_URI} !^/portfolio/assets/
-RewriteCond %{REQUEST_URI} !^/portfolio/images/
+# Only rewrite if file/folder does not exist
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.+)$ /portfolio/php/$1.php [QSA,L]
+
+# Rewrite clean URLs into php folder
+RewriteRule ^(.+)$ php/$1.php [QSA,L]
