@@ -1,6 +1,25 @@
-node_modules
-build
-npm-debug.log
-.nyc
-.env
+# Node dependencies
+node_modules/
+
+# Build caches (various tools)
+.cache/
+.tmp/
+
+# OS junk
 .DS_Store
+
+# Logs
+npm-debug.log
+
+# Environment variables
+.env
+
+# NYC coverage folder
+.nyc
+
+# IMPORTANT:
+# Do NOT ignore dist — Hostinger needs your built static files
+# dist/
+
+# You do not use a build/ folder, so ignore nothing here
+# build/
