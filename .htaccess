@@ -1,14 +1,21 @@
 Options +FollowSymLinks
 RewriteEngine On
-RewriteBase /spencerkelly.firstbloc/
 
+# Detect whether we're on localhost or Hostinger
+RewriteCond %{HTTP_HOST} ^localhost [NC]
+RewriteRule ^ - [E=BASE:/spencerkelly.firstbloc]
+
+RewriteCond %{HTTP_HOST} ^spencerkelly\.firstbloc\.com$ [NC]
+RewriteRule ^ - [E=BASE:/portfolio]
+
+# Do NOT rewrite static assets
+RewriteCond %{REQUEST_URI} !^%{ENV:BASE}/dist/
+RewriteCond %{REQUEST_URI} !^%{ENV:BASE}/assets/
+RewriteCond %{REQUEST_URI} !^%{ENV:BASE}/images/
+
+# Only rewrite if the file/folder does not exist
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.+)$ /spencerkelly.firstbloc/php/$1.php [QSA,L]
 
-<IfModule mod_expires.c>
-ExpiresActive On
-<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf|avif|svg|webp|mp4|webm)$">
-ExpiresDefault "access plus 1 year"
-</FilesMatch>
-</IfModule>
+# Rewrite clean URLs into php folder
+RewriteRule ^(.+)$ %{ENV:BASE}/php/$1.php [QSA,L]
