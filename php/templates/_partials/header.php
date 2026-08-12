@@ -15,8 +15,8 @@
     <meta name="robots" content="noindex, nofollow" />
     <meta http-equiv="Cache-control" content="public">
     <link rel="stylesheet" type="text/css" href="css/main.min.css" />
-    <script defer src="js/main.min.js"></script>
-    <link rel="icon" href="/favicon.png">
+    <script defer src="dist/js/main.min.js"></script>
+    <link rel="icon" href="dist/images/favicon.png">
 
     <!-- Hotjar Tracking Code for https://spencerkelly.firstbloc.com -->
     <script>
